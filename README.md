@@ -4,9 +4,9 @@
 
 2. edit as html을 눌러서 html을 처음부터 끝까지 복사한다.(ctrl a -> ctrl c)
 
-3. xinhtml.txt에 붙여넣기 한다. 
+3. data/xinhtml.txt에 붙여넣기 한다. 
 
-4. main.py를 실행한다. 
+4. main.py를 실행한다. (이산수학이면 3입력)
 
 5. 몇 월 며칠 강의인지 입력한다.
 <!-- # XIN_Picture_Downloader 1.1.1
