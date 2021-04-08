@@ -4,11 +4,13 @@
 
 2. edit as html을 눌러서 html을 처음부터 끝까지 복사한다.(ctrl a -> ctrl c)
 
-3. xinhtml.txt에 붙여넣기 한다. 
+3. xinhtml.txt에 붙여넣기 한다.(알고리즘, 자료구조는 html.txt에 넣어야함.)
 
 4. main.py를 실행한다. 
 
-5. 몇 월 며칠 강의인지 입력한다.
+5. 이산수학이면 3을 입력한다. 
+
+6. 몇 월 며칠 강의인지 입력한다.
 <!-- # XIN_Picture_Downloader 1.1.1
 
 XIN 강의의 사진과 영상(음성)을 자동으로 다운로드 해주는 프로그램입니다.
