@@ -1,4 +1,4 @@
-<html class=" js no-mobile desktop no-ie chrome chrome89 em-section gradient rgba opacity textshadow multiplebgs boxshadow borderimage borderradius cssreflections csstransforms csstransitions no-touch retina fontface domloaded w-862 gt-240 gt-320 gt-480 gt-640 gt-768 gt-800 lt-1024 lt-1280 lt-1440 lt-1680 lt-1920 no-portrait landscape" id="606d182711de-page"><script>(function(e,t,n){window[e].set(t,n)})("n13446179266109004", "018841118115452637", {"blockalert":false,"blockconfirm":false,"blockprompt":false,"renderalert":false});</script><script>(function(e,t,n){window[e].set(t,n)})("n13446179266109004", "018841118115452637", {"blockalert":false,"blockconfirm":false,"blockprompt":false,"renderalert":false});</script><script>(function(e,t,n){window[e].set(t,n)})("n13446179266109004", "018841118115452637", {"blockalert":false,"blockconfirm":false,"blockprompt":false,"renderalert":false});</script><script>(function(e,t,n){window[e].set(t,n)})("n13446179266109004", "018841118115452637", {"blockalert":false,"blockconfirm":false,"blockprompt":false,"renderalert":false});</script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>(function(e,t,n){window[e]=new function(){var r=window.alert,o=window.confirm,i=window.prompt,d=function(t){t.namespace=e,window.dispatchEvent(new CustomEvent(e,{detail:t}))};this.set=function(e,r){e==t&&(n=r)},window.alert=function(e){var t=n.blockalert||n.renderalert||!1;return d({alert:{blocked:t,message:e?e.toString():""}}),!t&&r(e)},window.confirm=function(e){var t=n.blockconfirm||!1;return d({confirm:{blocked:t,message:e?e.toString():""}}),!t&&o(e)},window.prompt=function(e,t){var r=n.blockprompt||!1;return d({prompt:{blocked:r,message:e?e.toString():"",def:t}}),!r&&i(e,t)}}})("n13446179266109004", "018841118115452637", {"blockalert":true,"blockconfirm":false,"blockprompt":false,"renderalert":false});</script><!--<![endif]--><head>
+<html class=" js no-mobile desktop no-ie chrome chrome90 em-section gradient rgba opacity textshadow multiplebgs boxshadow borderimage borderradius cssreflections csstransforms csstransitions no-touch retina fontface domloaded w-579 gt-240 gt-320 gt-480 lt-640 lt-768 lt-800 lt-1024 lt-1280 lt-1440 lt-1680 lt-1920 portrait no-landscape" id="609841a928fab-page"><script>(function(e,t,n){window[e].set(t,n)})("n753910477980664", "0508336878282285", {"blockalert":false,"blockconfirm":false,"blockprompt":false,"renderalert":false});</script><script>(function(e,t,n){window[e].set(t,n)})("n753910477980664", "0508336878282285", {"blockalert":false,"blockconfirm":false,"blockprompt":false,"renderalert":false});</script><script>(function(e,t,n){window[e].set(t,n)})("n753910477980664", "0508336878282285", {"blockalert":false,"blockconfirm":false,"blockprompt":false,"renderalert":false});</script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>(function(e,t,n){window[e].set(t,n)})("n753910477980664", "0508336878282285", {"blockalert":false,"blockconfirm":false,"blockprompt":false,"renderalert":false});</script><script>(function(e,t,n){window[e]=new function(){var r=window.alert,o=window.confirm,i=window.prompt,d=function(t){t.namespace=e,window.dispatchEvent(new CustomEvent(e,{detail:t}))};this.set=function(e,r){e==t&&(n=r)},window.alert=function(e){var t=n.blockalert||n.renderalert||!1;return d({alert:{blocked:t,message:e?e.toString():""}}),!t&&r(e)},window.confirm=function(e){var t=n.blockconfirm||!1;return d({confirm:{blocked:t,message:e?e.toString():""}}),!t&&o(e)},window.prompt=function(e,t){var r=n.blockprompt||!1;return d({prompt:{blocked:r,message:e?e.toString():"",def:t}}),!r&&i(e,t)}}})("n753910477980664", "0508336878282285", {"blockalert":true,"blockconfirm":false,"blockprompt":false,"renderalert":false});</script><!--<![endif]--><head>
 	<!--HTML5 시작-->
 <meta charset="UTF-8">
 <meta name="apple-mobile-web-app-capable" content="yes">
@@ -16,23 +16,23 @@
 <!--SEO를 위해서 넣은 메타 태그 종료-->
 <!--Commons 콘텐츠 메타 데이터 태그 시작-->
 <meta name="user_name" content="박성빈">
-<meta name="duration" content="4507">
-<meta name="thumbnail" content="https://kucom.korea.ac.kr/thumbnail/606d182711de">
-<meta name="regdate" content="20210407115303">
+<meta name="duration" content="4504">
+<meta name="thumbnail" content="https://kucom.korea.ac.kr/thumbnail/609841a928fab">
+<meta name="regdate" content="20210510052538">
 <meta name="commons.user_name" content="박성빈">
-<meta name="commons.duration" content="4507">
-<meta name="commons.thumbnail" content="https://kucom.korea.ac.kr/thumbnail/606d182711de">
-<meta name="commons.regdate" content="20210407115303">
+<meta name="commons.duration" content="4504">
+<meta name="commons.thumbnail" content="https://kucom.korea.ac.kr/thumbnail/609841a928fab">
+<meta name="commons.regdate" content="20210510052538">
 <meta name="commons.content_type" content="15">
 <meta name="commons.progress_support" content="true">
 <!--Commons 콘텐츠 메타 데이터 태그  종료-->
 <!--Facebook Open Graph Protocol 시작-->
 <meta property="og:title" content="제목없음">
 <meta property="og:description" content="">
-<meta property="og:image" content="https://kucom.korea.ac.kr/contents6/kruniv1001/606d182711de/contents/web_files/slides/thumbnails/big_thumbnail.png">
+<meta property="og:image" content="https://kucom.korea.ac.kr/contents6/kruniv1001/609841a928fab/contents/web_files/slides/thumbnails/big_thumbnail.png">
 <meta property="og:image:width" content="533">
 <meta property="og:image:height" content="400">
-<meta property="og:url" content="https://kucom.korea.ac.kr/em/606d182711de">
+<meta property="og:url" content="https://kucom.korea.ac.kr/em/609841a928fab">
 <meta property="og:site_name" content="https://kucom.korea.ac.kr">
 <meta property="og:type" content="video">
 <!--Facebook Open Graph Protocol 종료-->
@@ -54,20 +54,20 @@
 	</style>
 
 	<script type="text/javascript">
-		var content_id = "606d182711de";
+		var content_id = "609841a928fab";
 		var content_title = "제목없음";
 		var playerType = 'Uniplayer';
 		var content_type = "15";
 	</script>
 
-	<script type="text/javascript" src="/viewer/uniplayer/external-library/hls.js/hls.min.js?version=0.12.4"></script><script type="text/javascript" src="/viewer/uniplayer/external-library/pdf.js/compatibility.js"></script><script type="text/javascript" src="/viewer/uniplayer/external-library/pdf.js/pdf.js"></script><script type="text/javascript" src="/viewer/uniplayer/external-library/pdf.js/turn.min.js"></script><script type="text/javascript" src="/viewer/uniplayer/custom/uniplayer_cscript.js?_=1617851420970"></script><link type="text/css" rel="stylesheet" href="/viewer/uniplayer_skins/default/desktop/common/uni-player-skin.css?version=1.2.0.44"><link type="text/css" rel="stylesheet" href="/viewer/uniplayer_skins/default/desktop/custom/uni-player-skin.css?version=1.2.0.44"><script type="text/javascript" src="/customs/analytics/xn_ga.js"></script></head>
+	<script type="text/javascript" src="/viewer/uniplayer/external-library/hls.js/hls.min.js?version=0.12.4"></script><script type="text/javascript" src="/viewer/uniplayer/external-library/pdf.js/compatibility.js"></script><script type="text/javascript" src="/viewer/uniplayer/external-library/pdf.js/pdf.js"></script><script type="text/javascript" src="/viewer/uniplayer/external-library/pdf.js/turn.min.js"></script><script type="text/javascript" src="/viewer/uniplayer/custom/uniplayer_cscript.js?_=1620673054862"></script><link type="text/css" rel="stylesheet" href="/viewer/uniplayer_skins/default/desktop/common/uni-player-skin.css?version=1.2.0.44"><link type="text/css" rel="stylesheet" href="/viewer/uniplayer_skins/default/desktop/custom/uni-player-skin.css?version=1.2.0.44"><script type="text/javascript" src="/customs/analytics/xn_ga.js"></script></head>
 <body>
 	<div id="player-area"><!-- UniPlayer 스킨 시작 -->
-<div id="uni-player" style="width: 862px; height: 727px;">
+<div id="uni-player" style="width: 579px; height: 669px;">
 	<!-- 콘텐츠 메타데이터 표시 -->
-	<div id="content-metadata" style="display: none; width: 862px;">
+	<div id="content-metadata" style="display: block; width: 579px;">
 		<div class="vc-content-meta-container non-selectable">
-			<div class="vc-content-meta-title" style="width: 792px;">
+			<div class="vc-content-meta-title" style="width: 509px;">
 				<span class="vc-content-meta-title-text" title="제목없음">제목없음</span>
 			</div>
 			<div class="vc-content-meta-chapter-btn" tabindex="3" title="목차" style="display: block;"></div>
@@ -86,7 +86,7 @@
 				</div>
 				<div class="vc-content-meta-info-middle">
 					<div class="vc-content-meta-info-title" title="제목없음">제목없음</div>
-					<div class="vc-content-meta-info-duration">01:15:07</div>
+					<div class="vc-content-meta-info-duration">01:15:04</div>
 					<div class="vc-content-meta-info-author-name">박성빈</div>
 				</div>
 				<div class="vc-content-meta-info-bottom">
@@ -100,8 +100,8 @@
 	<div id="front-screen" style="display: none;">
 		<div class="vc-front-screen-container non-selectable">
 			<!-- 썸네일 표시 -->
-			<div class="vc-front-screen-thumbnail-container" style="top: 0px; width: 862px; height: 727px;">
-				<img class="vc-front-screen-thumbnail" src="https://kucom.korea.ac.kr/thumbnail/606d182711de" style="margin-top: 0px; margin-left: -53.3637px; width: 968.727px; height: 727px;">
+			<div class="vc-front-screen-thumbnail-container" style="top: 0px; width: 579px; height: 669px;">
+				<img class="vc-front-screen-thumbnail" src="https://kucom.korea.ac.kr/thumbnail/609841a928fab" style="margin-top: 0px; margin-left: -156.221px; width: 891.442px; height: 669px;">
 			</div>
 			<div class="vc-front-screen-btn-container">
 				<div class="vc-front-screen-btn-wrapper video1-btn" style="display: table-cell;">
@@ -116,7 +116,7 @@
 	</div>
 
 	<!-- Player -->
-	<div id="player" style="width: 862px;">
+	<div id="player" style="width: 579px;">
 		<!-- Audio Player 시작 -->
 		<div id="audio-player">
 			<div id="audio-play-wrapper">
@@ -145,7 +145,7 @@
 				<!-- Video1 Play Component -->
 				<div id="video-play-video1" style="display: none;">
 					<div class="vc-vplay-container non-selectable" style="display: none;">
-						<video class="vc-vplay-video1" src="" style="width: 1038px; height: 692px; margin-left: 201px; margin-top: 0px;"></video>
+						<video class="vc-vplay-video1" src="" style="width: 579px; height: 386px; margin-left: 0px; margin-top: 124px;"></video>
 					</div>
 					<div class="vc-vplay-container-flash-fallback non-selectable">
 						<div class="vc-vplay-video1 vc-vplay-video1-flash-fallback">
@@ -374,15 +374,15 @@
 					<div class="vc-sdplay-container non-selectable">
 						<div class="vc-sdplay-audio" id="vc-sdplay-audio">
 							<div class="vc-sdaudio-container non-selectable">
-								<audio class="vc-sdaudio-audio" src="https://korea.commonscdn.com/contents6/kruniv1001/606d182711de/contents/media_files/main_(b8eddc39-492a-4dc2-8a0f-a5fb5e192161).mp4"></audio>
+								<audio class="vc-sdaudio-audio" src="https://korea.commonscdn.com/contents6/kruniv1001/609841a928fab/contents/media_files/main_(baec5ad8-c0a8-406e-85d0-ed789cc747ba).mp4"></audio>
 							</div>
 							<div class="vc-sdaudio-container-flash-fallback non-selectable">
 								<div id="vc-sdaudio-audio-flash-fallback"></div>
 							</div>
 						</div>
 						<div class="vc-sdplay-slide-for-audio">
-							<div class="vc-slide-container non-selectable" style="height: 483.528px; margin-top: 104.236px; display: block; width: 862px; margin-left: 0px;">
-								<div class="vc-slide-area" style="height: 483.528px; width: 862px;"><div id="doc-player-container" class="doc-layout-mode-one-page" style="overflow: hidden;"><div id="doc-player" class="player-mode-image" style="width: 100%;"><div class="top-margin-for-scroll-mode" style="height: 0px;"></div><div id="page-container1" class="page-container" style="height: 482px; width: 861px; border: 0px solid transparent; margin: 1px 0px 0px 0.5px; display: block;"><div class="page-background" style="height: 482px; width: 861px;"></div><img id="img1" draggable="false" unselectable="on" src="https://kucom.korea.ac.kr/contents6/kruniv1001/606d182711de/contents/web_files/slide/large_slide_(9c423f9a-61d4-405e-bebd-327ccd6392a9).jpg" style="width: 861.058px; height: 483px;"></div><div id="page-container2" class="page-container" style="height: 482px; width: 861px; border: 0px solid transparent; margin: 0px; display: none;"><div class="page-background" style="height: 482px; width: 861px;"></div><img id="img2" draggable="false" unselectable="on" src="https://kucom.korea.ac.kr/contents6/kruniv1001/606d182711de/contents/web_files/slide/large_slide_(b978c3da-f97e-450a-93e5-46697c1d9792).jpg" style="width: 861.058px; height: 483px;"></div><div id="page-container3" class="page-container" style="height: 482px; width: 861px; border: 0px solid transparent; margin: 0px; display: none;"><div class="page-background" style="height: 482px; width: 861px;"></div><div class="doc-page-loading-icon-container"><div class="doc-page-loading-icon"></div></div></div><div id="page-container4" class="page-container" style="height: 482px; width: 861px; border: 0px solid transparent; margin: 0px; display: none;"><div class="page-background" style="height: 482px; width: 861px;"></div><div class="doc-page-loading-icon-container"><div class="doc-page-loading-icon"></div></div></div><div id="page-container5" class="page-container" style="height: 482px; width: 861px; border: 0px solid transparent; margin: 0px; display: none;"><div class="page-background" style="height: 482px; width: 861px;"></div><div class="doc-page-loading-icon-container"><div class="doc-page-loading-icon"></div></div></div><div id="page-container6" class="page-container" style="height: 482px; width: 861px; border: 0px solid transparent; margin: 0px; display: none;"><div class="page-background" style="height: 482px; width: 861px;"></div><div class="doc-page-loading-icon-container"><div class="doc-page-loading-icon"></div></div></div><div id="page-container7" class="page-container" style="height: 482px; width: 861px; border: 0px solid transparent; margin: 0px; display: none;"><div class="page-background" style="height: 482px; width: 861px;"></div><div class="doc-page-loading-icon-container"><div class="doc-page-loading-icon"></div></div></div><div id="page-container8" class="page-container" style="height: 482px; width: 861px; border: 0px solid transparent; margin: 0px; display: none;"><div class="page-background" style="height: 482px; width: 861px;"></div><div class="doc-page-loading-icon-container"><div class="doc-page-loading-icon"></div></div></div><div id="page-container9" class="page-container" style="height: 482px; width: 861px; border: 0px solid transparent; margin: 0px; display: none;"><div class="page-background" style="height: 482px; width: 861px;"></div><div class="doc-page-loading-icon-container"><div class="doc-page-loading-icon"></div></div></div><div id="page-container10" class="page-container" style="height: 482px; width: 861px; border: 0px solid transparent; margin: 0px; display: none;"><div class="page-background" style="height: 482px; width: 861px;"></div><div class="doc-page-loading-icon-container"><div class="doc-page-loading-icon"></div></div></div><div id="bundle-container1" class="bundle-container" style="display: none; border: 0px solid transparent; margin: 0px; width: 1722px; height: 482px;"></div><div id="bundle-container2" class="bundle-container" style="display: none; border: 0px solid transparent; margin: 0px; width: 1722px; height: 482px;"></div><div id="bundle-container3" class="bundle-container" style="display: none; border: 0px solid transparent; margin: 0px; width: 1722px; height: 482px;"></div><div id="bundle-container4" class="bundle-container" style="display: none; border: 0px solid transparent; margin: 0px; width: 1722px; height: 482px;"></div><div id="bundle-container5" class="bundle-container" style="display: none; border: 0px solid transparent; margin: 0px; width: 1722px; height: 482px;"></div></div></div></div>
+							<div class="vc-slide-container non-selectable" style="height: 324.783px; margin-top: 154.609px; display: block; width: 579px; margin-left: 0px;">
+								<div class="vc-slide-area" style="height: 324.783px; width: 579px;"><div id="doc-player-container" class="doc-layout-mode-one-page" style="overflow: hidden;"><div id="doc-player" class="player-mode-image" style="width: 100%;"><div class="top-margin-for-scroll-mode" style="height: 0px;"></div><div id="page-container1" class="page-container" style="height: 324px; width: 577px; border: 0px solid transparent; margin: 0.5px 0px 0px 1px; display: block;"><div class="page-background" style="height: 324px; width: 577px;"></div><img id="img1" draggable="false" unselectable="on" src="https://kucom.korea.ac.kr/contents6/kruniv1001/609841a928fab/contents/web_files/slide/basic_slide_(1da45b0f-06b8-470f-8caf-d114001dfb79).jpg" style="width: 577.604px; height: 324px;"></div><div id="page-container2" class="page-container" style="height: 324px; width: 577px; border: 0px solid transparent; margin: 0px; display: none;"><div class="page-background" style="height: 324px; width: 577px;"></div><img id="img2" draggable="false" unselectable="on" src="https://kucom.korea.ac.kr/contents6/kruniv1001/609841a928fab/contents/web_files/slide/basic_slide_(5936bceb-40e7-41f6-ac90-e61fc5e2409a).jpg" style="width: 577.604px; height: 324px;"></div><div id="page-container3" class="page-container" style="height: 324px; width: 577px; border: 0px solid transparent; margin: 0px; display: none;"><div class="page-background" style="height: 324px; width: 577px;"></div><div class="doc-page-loading-icon-container"><div class="doc-page-loading-icon"></div></div></div><div id="page-container4" class="page-container" style="height: 324px; width: 577px; border: 0px solid transparent; margin: 0px; display: none;"><div class="page-background" style="height: 324px; width: 577px;"></div><div class="doc-page-loading-icon-container"><div class="doc-page-loading-icon"></div></div></div><div id="page-container5" class="page-container" style="height: 324px; width: 577px; border: 0px solid transparent; margin: 0px; display: none;"><div class="page-background" style="height: 324px; width: 577px;"></div><div class="doc-page-loading-icon-container"><div class="doc-page-loading-icon"></div></div></div><div id="page-container6" class="page-container" style="height: 324px; width: 577px; border: 0px solid transparent; margin: 0px; display: none;"><div class="page-background" style="height: 324px; width: 577px;"></div><div class="doc-page-loading-icon-container"><div class="doc-page-loading-icon"></div></div></div><div id="page-container7" class="page-container" style="height: 324px; width: 577px; border: 0px solid transparent; margin: 0px; display: none;"><div class="page-background" style="height: 324px; width: 577px;"></div><div class="doc-page-loading-icon-container"><div class="doc-page-loading-icon"></div></div></div><div id="page-container8" class="page-container" style="height: 324px; width: 577px; border: 0px solid transparent; margin: 0px; display: none;"><div class="page-background" style="height: 324px; width: 577px;"></div><div class="doc-page-loading-icon-container"><div class="doc-page-loading-icon"></div></div></div><div id="page-container9" class="page-container" style="height: 324px; width: 577px; border: 0px solid transparent; margin: 0px; display: none;"><div class="page-background" style="height: 324px; width: 577px;"></div><div class="doc-page-loading-icon-container"><div class="doc-page-loading-icon"></div></div></div><div id="page-container10" class="page-container" style="height: 324px; width: 577px; border: 0px solid transparent; margin: 0px; display: none;"><div class="page-background" style="height: 324px; width: 577px;"></div><div class="doc-page-loading-icon-container"><div class="doc-page-loading-icon"></div></div></div><div id="page-container11" class="page-container" style="height: 324px; width: 577px; border: 0px solid transparent; margin: 0px; display: none;"><div class="page-background" style="height: 324px; width: 577px;"></div><div class="doc-page-loading-icon-container"><div class="doc-page-loading-icon"></div></div></div><div id="page-container12" class="page-container" style="height: 324px; width: 577px; border: 0px solid transparent; margin: 0px; display: none;"><div class="page-background" style="height: 324px; width: 577px;"></div><div class="doc-page-loading-icon-container"><div class="doc-page-loading-icon"></div></div></div><div id="page-container13" class="page-container" style="height: 324px; width: 577px; border: 0px solid transparent; margin: 0px; display: none;"><div class="page-background" style="height: 324px; width: 577px;"></div><div class="doc-page-loading-icon-container"><div class="doc-page-loading-icon"></div></div></div><div id="page-container14" class="page-container" style="height: 324px; width: 577px; border: 0px solid transparent; margin: 0px; display: none;"><div class="page-background" style="height: 324px; width: 577px;"></div><div class="doc-page-loading-icon-container"><div class="doc-page-loading-icon"></div></div></div><div id="page-container15" class="page-container" style="height: 324px; width: 577px; border: 0px solid transparent; margin: 0px; display: none;"><div class="page-background" style="height: 324px; width: 577px;"></div><div class="doc-page-loading-icon-container"><div class="doc-page-loading-icon"></div></div></div><div id="page-container16" class="page-container" style="height: 324px; width: 577px; border: 0px solid transparent; margin: 0px; display: none;"><div class="page-background" style="height: 324px; width: 577px;"></div><div class="doc-page-loading-icon-container"><div class="doc-page-loading-icon"></div></div></div><div id="page-container17" class="page-container" style="height: 324px; width: 577px; border: 0px solid transparent; margin: 0px; display: none;"><div class="page-background" style="height: 324px; width: 577px;"></div><div class="doc-page-loading-icon-container"><div class="doc-page-loading-icon"></div></div></div><div id="page-container18" class="page-container" style="height: 324px; width: 577px; border: 0px solid transparent; margin: 0px; display: none;"><div class="page-background" style="height: 324px; width: 577px;"></div><div class="doc-page-loading-icon-container"><div class="doc-page-loading-icon"></div></div></div><div id="page-container19" class="page-container" style="height: 324px; width: 577px; border: 0px solid transparent; margin: 0px; display: none;"><div class="page-background" style="height: 324px; width: 577px;"></div><div class="doc-page-loading-icon-container"><div class="doc-page-loading-icon"></div></div></div><div id="page-container20" class="page-container" style="height: 324px; width: 577px; border: 0px solid transparent; margin: 0px; display: none;"><div class="page-background" style="height: 324px; width: 577px;"></div><div class="doc-page-loading-icon-container"><div class="doc-page-loading-icon"></div></div></div><div id="page-container21" class="page-container" style="height: 324px; width: 577px; border: 0px solid transparent; margin: 0px; display: none;"><div class="page-background" style="height: 324px; width: 577px;"></div><div class="doc-page-loading-icon-container"><div class="doc-page-loading-icon"></div></div></div><div id="page-container22" class="page-container" style="height: 324px; width: 577px; border: 0px solid transparent; margin: 0px; display: none;"><div class="page-background" style="height: 324px; width: 577px;"></div><div class="doc-page-loading-icon-container"><div class="doc-page-loading-icon"></div></div></div><div id="page-container23" class="page-container" style="height: 324px; width: 577px; border: 0px solid transparent; margin: 0px; display: none;"><div class="page-background" style="height: 324px; width: 577px;"></div><div class="doc-page-loading-icon-container"><div class="doc-page-loading-icon"></div></div></div><div id="page-container24" class="page-container" style="height: 324px; width: 577px; border: 0px solid transparent; margin: 0px; display: none;"><div class="page-background" style="height: 324px; width: 577px;"></div><div class="doc-page-loading-icon-container"><div class="doc-page-loading-icon"></div></div></div><div id="page-container25" class="page-container" style="height: 324px; width: 577px; border: 0px solid transparent; margin: 0px; display: none;"><div class="page-background" style="height: 324px; width: 577px;"></div><div class="doc-page-loading-icon-container"><div class="doc-page-loading-icon"></div></div></div><div id="bundle-container1" class="bundle-container" style="display: none; border: 0px solid transparent; margin: 0px; width: 1154px; height: 324px;"></div><div id="bundle-container2" class="bundle-container" style="display: none; border: 0px solid transparent; margin: 0px; width: 1154px; height: 324px;"></div><div id="bundle-container3" class="bundle-container" style="display: none; border: 0px solid transparent; margin: 0px; width: 1154px; height: 324px;"></div><div id="bundle-container4" class="bundle-container" style="display: none; border: 0px solid transparent; margin: 0px; width: 1154px; height: 324px;"></div><div id="bundle-container5" class="bundle-container" style="display: none; border: 0px solid transparent; margin: 0px; width: 1154px; height: 324px;"></div><div id="bundle-container6" class="bundle-container" style="display: none; border: 0px solid transparent; margin: 0px; width: 1154px; height: 324px;"></div><div id="bundle-container7" class="bundle-container" style="display: none; border: 0px solid transparent; margin: 0px; width: 1154px; height: 324px;"></div><div id="bundle-container8" class="bundle-container" style="display: none; border: 0px solid transparent; margin: 0px; width: 1154px; height: 324px;"></div><div id="bundle-container9" class="bundle-container" style="display: none; border: 0px solid transparent; margin: 0px; width: 1154px; height: 324px;"></div><div id="bundle-container10" class="bundle-container" style="display: none; border: 0px solid transparent; margin: 0px; width: 1154px; height: 324px;"></div><div id="bundle-container11" class="bundle-container" style="display: none; border: 0px solid transparent; margin: 0px; width: 1154px; height: 324px;"></div><div id="bundle-container12" class="bundle-container" style="display: none; border: 0px solid transparent; margin: 0px; width: 1154px; height: 324px;"></div><div id="bundle-container13" class="bundle-container" style="display: none; border: 0px solid transparent; margin: 0px; width: 1154px; height: 324px;"></div></div></div></div>
 								<div class="vc-slide-sync-btn vc-slide-syncing-mode"></div>
 							<div class="vc-slide-controller">
 					<!-- Document Sync On/Off Button-->
@@ -390,7 +390,7 @@
 						<div class="vc-slide-sync-btn vc-slide-syncing-mode vc-floating-btn"></div>
 					</div>
 					<!-- Document Paging -->
-					<div class="vc-slide-paging-over-layer vc-over-layer" style="display: none; left: 311px;">
+					<div class="vc-slide-paging-over-layer vc-over-layer" style="display: none; left: 169.5px;">
 						<div class="vc-slide-paging-container">
 							<div class="vc-slide-paging" style="visibility: hidden; top: 45px;">
 								<div class="vc-btn vc-slide-prev-page-btn"></div>
@@ -398,7 +398,7 @@
 								<span class="vc-slide-page-display">
 									<span class="vc-slide-curr-page">1</span>
 									<span class="vc-slide-page-separator">/</span>
-									<span class="vc-slide-total-page">10</span>
+									<span class="vc-slide-total-page">25</span>
 								</span>
 							</div>
 						</div>
@@ -422,9 +422,9 @@
 					</div>
 				</div></div>
 						</div>
-						<div class="vc-sdplay-note" style="visibility: visible; left: 0px; top: 104.234px;">
+						<div class="vc-sdplay-note" style="visibility: visible; left: 0px; top: 154.594px;">
 							<div id="vc-sdaudio-note-flash-fallback"></div>
-						<canvas id="drawingArea" width="862" height="484"></canvas></div>
+						<canvas id="drawingArea" width="579" height="325"></canvas></div>
 					</div>
 				</div>
 
@@ -470,7 +470,7 @@
 	</div>
 
 	<!-- 자막 -->
-	<div id="closed-caption" style="left: 61.202px; width: 739.596px; bottom: 43px; display: none;">
+	<div id="closed-caption" style="left: 20.265px; width: 538.47px; bottom: 43px; display: none;">
 		<div class="vc-cc-container non-selectable">
 			<div class="vc-cc-caption"></div>
 		</div>
@@ -481,17 +481,17 @@
 		<div class="vc-media-script-header">
 			<div class="vc-media-script-header-title">스크립트</div>
 		</div>
-		<div class="vc-media-script-content" style="height: 682px;"></div>
+		<div class="vc-media-script-content" style="height: 624px;"></div>
 	</div>
 
 	<!-- 세로형 목차 -->
-	<div id="chapter-vertical" style="position: relative; height: 727px; top: 0px;">
+	<div id="chapter-vertical" class="type-layer" style="position: absolute; height: 599px; top: 35px; right: 0px;">
 		<div class="vc-chapter-container-vertical non-selectable">
 			<div class="vc-top-item">
 				<span class="vc-top-item-name">목차</span>
-				<span class="vc-top-item-total">10</span>
+				<span class="vc-top-item-total">25</span>
 			</div>
-			<ol class="vc-chapter-list-vertical type-thumbnail" style="height: 692px; overflow: hidden; padding: 0px; width: 250px;">
+			<ol class="vc-chapter-list-vertical type-thumbnail" style="height: 564px; overflow: hidden; padding: 0px; width: 250px;">
 		
 			
 		
@@ -557,109 +557,349 @@
 		
 			
 		
-		<div class="jspContainer" style="width: 250px; height: 692px;"><div class="jspPane" style="padding: 0px; top: 0px; left: 0px; width: 250px;"><li id="vc-chapter-item-vertical-1" class="vc-story-item-vertical vc-story-highlighted">
+		
+		
+
+		
+			
+		
+		
+		
+
+		
+			
+		
+		
+		
+
+		
+			
+		
+		
+		
+
+		
+			
+		
+		
+		
+
+		
+			
+		
+		
+		
+
+		
+			
+		
+		
+		
+
+		
+			
+		
+		
+		
+
+		
+			
+		
+		
+		
+
+		
+			
+		
+		
+		
+
+		
+			
+		
+		
+		
+
+		
+			
+		
+		
+		
+
+		
+			
+		
+		
+		
+
+		
+			
+		
+		
+		
+
+		
+			
+		
+		
+		
+
+		
+			
+		
+		<div class="jspContainer" style="width: 250px; height: 634px;"><div class="jspPane" style="padding: 0px; top: 0px; left: 0px; width: 250px;"><li id="vc-chapter-item-vertical-1" class="vc-story-item-vertical vc-story-highlighted">
 				<div class="vc-story-item-description-vertical">
-					<span class="vc-story-item-description-text-vertical">이산수학-4월7일-수업-4-6-2021</span>
+					<span class="vc-story-item-description-text-vertical">이산수학-5월10일-2021</span>
 				</div>
 			</li><li id="vc-chapter-item-vertical-2" class="vc-chapter-item-vertical vc-chapter-highlighted">
 				<div class="vc-chapter-item-thumb-box-vertical">
-					<div class="vc-chapter-item-thumb-vertical" style="background-image: url('https://kucom.korea.ac.kr/contents6/kruniv1001/606d182711de/contents/web_files/chapter_thumbnail/small_slide_(9c423f9a-61d4-405e-bebd-327ccd6392a9).png');"></div>
+					<div class="vc-chapter-item-thumb-vertical" style="background-image: url('https://kucom.korea.ac.kr/contents6/kruniv1001/609841a928fab/contents/web_files/chapter_thumbnail/small_slide_(1da45b0f-06b8-470f-8caf-d114001dfb79).png');"></div>
 				     <div class="vc-chapter-item-time-vertical">
 						<div class="vc-chapter-item-time-text-vertical">00:00</div>
 					</div>
 				</div>
 				<div class="vc-chapter-item-description-vertical">
-					<span class="vc-chapter-item-description-text-vertical">이산수학-4월7일-수업-4-6-2021.pptx - 1p</span>
+					<span class="vc-chapter-item-description-text-vertical">이산수학-5월10일-2021.pptx - 1p</span>
 				</div>
 			</li><li id="vc-chapter-item-vertical-3" class="vc-chapter-item-vertical">
 				<div class="vc-chapter-item-thumb-box-vertical">
-					<div class="vc-chapter-item-thumb-vertical" style="background-image: url('https://kucom.korea.ac.kr/contents6/kruniv1001/606d182711de/contents/web_files/chapter_thumbnail/small_slide_(b978c3da-f97e-450a-93e5-46697c1d9792).png');"></div>
+					<div class="vc-chapter-item-thumb-vertical" style="background-image: url('https://kucom.korea.ac.kr/contents6/kruniv1001/609841a928fab/contents/web_files/chapter_thumbnail/small_slide_(5936bceb-40e7-41f6-ac90-e61fc5e2409a).png');"></div>
 				     <div class="vc-chapter-item-time-vertical">
-						<div class="vc-chapter-item-time-text-vertical">01:55</div>
+						<div class="vc-chapter-item-time-text-vertical">06:39</div>
 					</div>
 				</div>
 				<div class="vc-chapter-item-description-vertical">
-					<span class="vc-chapter-item-description-text-vertical">이산수학-4월7일-수업-4-6-2021.pptx - 2p</span>
+					<span class="vc-chapter-item-description-text-vertical">이산수학-5월10일-2021.pptx - 2p</span>
 				</div>
 			</li><li id="vc-chapter-item-vertical-4" class="vc-chapter-item-vertical">
 				<div class="vc-chapter-item-thumb-box-vertical">
-					<div class="vc-chapter-item-thumb-vertical" style="background-image: url('https://kucom.korea.ac.kr/contents6/kruniv1001/606d182711de/contents/web_files/chapter_thumbnail/small_slide_(69223bd2-a36f-46fd-87fe-665eb12faf81).png');"></div>
+					<div class="vc-chapter-item-thumb-vertical" style="background-image: url('https://kucom.korea.ac.kr/contents6/kruniv1001/609841a928fab/contents/web_files/chapter_thumbnail/small_slide_(c2859a07-6853-4325-ace6-b2bc99b25c7c).png');"></div>
 				     <div class="vc-chapter-item-time-vertical">
-						<div class="vc-chapter-item-time-text-vertical">09:41</div>
+						<div class="vc-chapter-item-time-text-vertical">12:06</div>
 					</div>
 				</div>
 				<div class="vc-chapter-item-description-vertical">
-					<span class="vc-chapter-item-description-text-vertical">이산수학-4월7일-수업-4-6-2021.pptx - 3p</span>
+					<span class="vc-chapter-item-description-text-vertical">이산수학-5월10일-2021.pptx - 3p</span>
 				</div>
 			</li><li id="vc-chapter-item-vertical-5" class="vc-chapter-item-vertical">
 				<div class="vc-chapter-item-thumb-box-vertical">
-					<div class="vc-chapter-item-thumb-vertical" style="background-image: url('https://kucom.korea.ac.kr/contents6/kruniv1001/606d182711de/contents/web_files/chapter_thumbnail/small_slide_(5ccaa995-bb76-4b81-a2bf-deab57eb0627).png');"></div>
+					<div class="vc-chapter-item-thumb-vertical" style="background-image: url('https://kucom.korea.ac.kr/contents6/kruniv1001/609841a928fab/contents/web_files/chapter_thumbnail/small_slide_(f3e64254-f15c-4620-89a0-faa06a20eae6).png');"></div>
 				     <div class="vc-chapter-item-time-vertical">
-						<div class="vc-chapter-item-time-text-vertical">24:09</div>
+						<div class="vc-chapter-item-time-text-vertical">14:17</div>
 					</div>
 				</div>
 				<div class="vc-chapter-item-description-vertical">
-					<span class="vc-chapter-item-description-text-vertical">이산수학-4월7일-수업-4-6-2021.pptx - 4p</span>
+					<span class="vc-chapter-item-description-text-vertical">이산수학-5월10일-2021.pptx - 4p</span>
 				</div>
 			</li><li id="vc-chapter-item-vertical-6" class="vc-chapter-item-vertical">
 				<div class="vc-chapter-item-thumb-box-vertical">
-					<div class="vc-chapter-item-thumb-vertical" style="background-image: url('https://kucom.korea.ac.kr/contents6/kruniv1001/606d182711de/contents/web_files/chapter_thumbnail/small_slide_(e6aea33f-87f3-419d-989f-a212eb892cf5).png');"></div>
+					<div class="vc-chapter-item-thumb-vertical" style="background-image: url('https://kucom.korea.ac.kr/contents6/kruniv1001/609841a928fab/contents/web_files/chapter_thumbnail/small_slide_(175414ef-d90f-4481-8a8f-811ff7cbe960).png');"></div>
 				     <div class="vc-chapter-item-time-vertical">
-						<div class="vc-chapter-item-time-text-vertical">36:41</div>
+						<div class="vc-chapter-item-time-text-vertical">17:26</div>
 					</div>
 				</div>
 				<div class="vc-chapter-item-description-vertical">
-					<span class="vc-chapter-item-description-text-vertical">이산수학-4월7일-수업-4-6-2021.pptx - 5p</span>
+					<span class="vc-chapter-item-description-text-vertical">이산수학-5월10일-2021.pptx - 5p</span>
 				</div>
 			</li><li id="vc-chapter-item-vertical-7" class="vc-chapter-item-vertical">
 				<div class="vc-chapter-item-thumb-box-vertical">
-					<div class="vc-chapter-item-thumb-vertical" style="background-image: url('https://kucom.korea.ac.kr/contents6/kruniv1001/606d182711de/contents/web_files/chapter_thumbnail/small_slide_(5568748d-97f4-4cbb-9721-f4a053768253).png');"></div>
+					<div class="vc-chapter-item-thumb-vertical" style="background-image: url('https://kucom.korea.ac.kr/contents6/kruniv1001/609841a928fab/contents/web_files/chapter_thumbnail/small_slide_(f8534654-e589-4137-9610-fe932ed90dbf).png');"></div>
 				     <div class="vc-chapter-item-time-vertical">
-						<div class="vc-chapter-item-time-text-vertical">45:27</div>
+						<div class="vc-chapter-item-time-text-vertical">19:46</div>
 					</div>
 				</div>
 				<div class="vc-chapter-item-description-vertical">
-					<span class="vc-chapter-item-description-text-vertical">이산수학-4월7일-수업-4-6-2021.pptx - 6p</span>
+					<span class="vc-chapter-item-description-text-vertical">이산수학-5월10일-2021.pptx - 6p</span>
 				</div>
 			</li><li id="vc-chapter-item-vertical-8" class="vc-chapter-item-vertical">
 				<div class="vc-chapter-item-thumb-box-vertical">
-					<div class="vc-chapter-item-thumb-vertical" style="background-image: url('https://kucom.korea.ac.kr/contents6/kruniv1001/606d182711de/contents/web_files/chapter_thumbnail/small_slide_(88f4472e-dfb5-445d-88fa-8a043b69188f).png');"></div>
+					<div class="vc-chapter-item-thumb-vertical" style="background-image: url('https://kucom.korea.ac.kr/contents6/kruniv1001/609841a928fab/contents/web_files/chapter_thumbnail/small_slide_(6b57a731-deb3-47b7-b0ec-a765cfaf56b0).png');"></div>
 				     <div class="vc-chapter-item-time-vertical">
-						<div class="vc-chapter-item-time-text-vertical">48:44</div>
+						<div class="vc-chapter-item-time-text-vertical">22:01</div>
 					</div>
 				</div>
 				<div class="vc-chapter-item-description-vertical">
-					<span class="vc-chapter-item-description-text-vertical">이산수학-4월7일-수업-4-6-2021.pptx - 7p</span>
+					<span class="vc-chapter-item-description-text-vertical">이산수학-5월10일-2021.pptx - 7p</span>
 				</div>
 			</li><li id="vc-chapter-item-vertical-9" class="vc-chapter-item-vertical">
 				<div class="vc-chapter-item-thumb-box-vertical">
-					<div class="vc-chapter-item-thumb-vertical" style="background-image: url('https://kucom.korea.ac.kr/contents6/kruniv1001/606d182711de/contents/web_files/chapter_thumbnail/small_slide_(9173cd69-866f-4b06-a51e-98875e8ce893).png');"></div>
+					<div class="vc-chapter-item-thumb-vertical" style="background-image: url('https://kucom.korea.ac.kr/contents6/kruniv1001/609841a928fab/contents/web_files/chapter_thumbnail/small_slide_(4622e5f5-198c-43c2-a9d4-a99c19f2e10e).png');"></div>
 				     <div class="vc-chapter-item-time-vertical">
-						<div class="vc-chapter-item-time-text-vertical">58:02</div>
+						<div class="vc-chapter-item-time-text-vertical">25:54</div>
 					</div>
 				</div>
 				<div class="vc-chapter-item-description-vertical">
-					<span class="vc-chapter-item-description-text-vertical">이산수학-4월7일-수업-4-6-2021.pptx - 8p</span>
+					<span class="vc-chapter-item-description-text-vertical">이산수학-5월10일-2021.pptx - 8p</span>
 				</div>
 			</li><li id="vc-chapter-item-vertical-10" class="vc-chapter-item-vertical">
 				<div class="vc-chapter-item-thumb-box-vertical">
-					<div class="vc-chapter-item-thumb-vertical" style="background-image: url('https://kucom.korea.ac.kr/contents6/kruniv1001/606d182711de/contents/web_files/chapter_thumbnail/small_slide_(b12b3af4-0ea3-42fa-8fb5-51aaeda24f54).png');"></div>
+					<div class="vc-chapter-item-thumb-vertical" style="background-image: url('https://kucom.korea.ac.kr/contents6/kruniv1001/609841a928fab/contents/web_files/chapter_thumbnail/small_slide_(99ec74b6-8c98-4cfc-984e-840b8b031c00).png');"></div>
 				     <div class="vc-chapter-item-time-vertical">
-						<div class="vc-chapter-item-time-text-vertical">01:08:48</div>
+						<div class="vc-chapter-item-time-text-vertical">27:05</div>
 					</div>
 				</div>
 				<div class="vc-chapter-item-description-vertical">
-					<span class="vc-chapter-item-description-text-vertical">이산수학-4월7일-수업-4-6-2021.pptx - 9p</span>
+					<span class="vc-chapter-item-description-text-vertical">이산수학-5월10일-2021.pptx - 9p</span>
 				</div>
 			</li><li id="vc-chapter-item-vertical-11" class="vc-chapter-item-vertical">
 				<div class="vc-chapter-item-thumb-box-vertical">
-					<div class="vc-chapter-item-thumb-vertical" style="background-image: url('https://kucom.korea.ac.kr/contents6/kruniv1001/606d182711de/contents/web_files/chapter_thumbnail/small_slide_(bd3debf3-0267-42ae-92bf-78c852dd4ed0).png');"></div>
+					<div class="vc-chapter-item-thumb-vertical" style="background-image: url('https://kucom.korea.ac.kr/contents6/kruniv1001/609841a928fab/contents/web_files/chapter_thumbnail/small_slide_(0b4ab5c8-d109-4716-824b-5b8741d71ea7).png');"></div>
 				     <div class="vc-chapter-item-time-vertical">
-						<div class="vc-chapter-item-time-text-vertical">01:13:56</div>
+						<div class="vc-chapter-item-time-text-vertical">29:06</div>
 					</div>
 				</div>
 				<div class="vc-chapter-item-description-vertical">
-					<span class="vc-chapter-item-description-text-vertical">이산수학-4월7일-수업-4-6-2021.pptx - 10p</span>
+					<span class="vc-chapter-item-description-text-vertical">이산수학-5월10일-2021.pptx - 10p</span>
+				</div>
+			</li><li id="vc-chapter-item-vertical-12" class="vc-chapter-item-vertical">
+				<div class="vc-chapter-item-thumb-box-vertical">
+					<div class="vc-chapter-item-thumb-vertical" style="background-image: url('https://kucom.korea.ac.kr/contents6/kruniv1001/609841a928fab/contents/web_files/chapter_thumbnail/small_slide_(d45b56fb-c665-4876-9895-c201ed77bf83).png');"></div>
+				     <div class="vc-chapter-item-time-vertical">
+						<div class="vc-chapter-item-time-text-vertical">31:27</div>
+					</div>
+				</div>
+				<div class="vc-chapter-item-description-vertical">
+					<span class="vc-chapter-item-description-text-vertical">이산수학-5월10일-2021.pptx - 11p</span>
+				</div>
+			</li><li id="vc-chapter-item-vertical-13" class="vc-chapter-item-vertical">
+				<div class="vc-chapter-item-thumb-box-vertical">
+					<div class="vc-chapter-item-thumb-vertical" style="background-image: url('https://kucom.korea.ac.kr/contents6/kruniv1001/609841a928fab/contents/web_files/chapter_thumbnail/small_slide_(3d5d0c77-c6cf-491d-8d42-40351696cbec).png');"></div>
+				     <div class="vc-chapter-item-time-vertical">
+						<div class="vc-chapter-item-time-text-vertical">33:34</div>
+					</div>
+				</div>
+				<div class="vc-chapter-item-description-vertical">
+					<span class="vc-chapter-item-description-text-vertical">이산수학-5월10일-2021.pptx - 12p</span>
+				</div>
+			</li><li id="vc-chapter-item-vertical-14" class="vc-chapter-item-vertical">
+				<div class="vc-chapter-item-thumb-box-vertical">
+					<div class="vc-chapter-item-thumb-vertical" style="background-image: url('https://kucom.korea.ac.kr/contents6/kruniv1001/609841a928fab/contents/web_files/chapter_thumbnail/small_slide_(35b26813-2a6e-4eb2-8c38-47e4f4ade39a).png');"></div>
+				     <div class="vc-chapter-item-time-vertical">
+						<div class="vc-chapter-item-time-text-vertical">37:12</div>
+					</div>
+				</div>
+				<div class="vc-chapter-item-description-vertical">
+					<span class="vc-chapter-item-description-text-vertical">이산수학-5월10일-2021.pptx - 13p</span>
+				</div>
+			</li><li id="vc-chapter-item-vertical-15" class="vc-chapter-item-vertical">
+				<div class="vc-chapter-item-thumb-box-vertical">
+					<div class="vc-chapter-item-thumb-vertical" style="background-image: url('https://kucom.korea.ac.kr/contents6/kruniv1001/609841a928fab/contents/web_files/chapter_thumbnail/small_slide_(27aa2354-4057-4c9c-831a-643d46b3039a).png');"></div>
+				     <div class="vc-chapter-item-time-vertical">
+						<div class="vc-chapter-item-time-text-vertical">38:55</div>
+					</div>
+				</div>
+				<div class="vc-chapter-item-description-vertical">
+					<span class="vc-chapter-item-description-text-vertical">이산수학-5월10일-2021.pptx - 14p</span>
+				</div>
+			</li><li id="vc-chapter-item-vertical-16" class="vc-chapter-item-vertical">
+				<div class="vc-chapter-item-thumb-box-vertical">
+					<div class="vc-chapter-item-thumb-vertical" style="background-image: url('https://kucom.korea.ac.kr/contents6/kruniv1001/609841a928fab/contents/web_files/chapter_thumbnail/small_slide_(1db216b2-a246-4f04-9244-745a5daa28ca).png');"></div>
+				     <div class="vc-chapter-item-time-vertical">
+						<div class="vc-chapter-item-time-text-vertical">40:03</div>
+					</div>
+				</div>
+				<div class="vc-chapter-item-description-vertical">
+					<span class="vc-chapter-item-description-text-vertical">이산수학-5월10일-2021.pptx - 15p</span>
+				</div>
+			</li><li id="vc-chapter-item-vertical-17" class="vc-chapter-item-vertical">
+				<div class="vc-chapter-item-thumb-box-vertical">
+					<div class="vc-chapter-item-thumb-vertical" style="background-image: url('https://kucom.korea.ac.kr/contents6/kruniv1001/609841a928fab/contents/web_files/chapter_thumbnail/small_slide_(66986b7a-3ccf-429b-b766-5b44532f3ac3).png');"></div>
+				     <div class="vc-chapter-item-time-vertical">
+						<div class="vc-chapter-item-time-text-vertical">43:16</div>
+					</div>
+				</div>
+				<div class="vc-chapter-item-description-vertical">
+					<span class="vc-chapter-item-description-text-vertical">이산수학-5월10일-2021.pptx - 16p</span>
+				</div>
+			</li><li id="vc-chapter-item-vertical-18" class="vc-chapter-item-vertical">
+				<div class="vc-chapter-item-thumb-box-vertical">
+					<div class="vc-chapter-item-thumb-vertical" style="background-image: url('https://kucom.korea.ac.kr/contents6/kruniv1001/609841a928fab/contents/web_files/chapter_thumbnail/small_slide_(66905995-eb73-4901-a48e-622e5a6cbb80).png');"></div>
+				     <div class="vc-chapter-item-time-vertical">
+						<div class="vc-chapter-item-time-text-vertical">46:04</div>
+					</div>
+				</div>
+				<div class="vc-chapter-item-description-vertical">
+					<span class="vc-chapter-item-description-text-vertical">이산수학-5월10일-2021.pptx - 17p</span>
+				</div>
+			</li><li id="vc-chapter-item-vertical-19" class="vc-chapter-item-vertical">
+				<div class="vc-chapter-item-thumb-box-vertical">
+					<div class="vc-chapter-item-thumb-vertical" style="background-image: url('https://kucom.korea.ac.kr/contents6/kruniv1001/609841a928fab/contents/web_files/chapter_thumbnail/small_slide_(b6395916-cdc8-4ea6-9909-5173994bc813).png');"></div>
+				     <div class="vc-chapter-item-time-vertical">
+						<div class="vc-chapter-item-time-text-vertical">47:57</div>
+					</div>
+				</div>
+				<div class="vc-chapter-item-description-vertical">
+					<span class="vc-chapter-item-description-text-vertical">이산수학-5월10일-2021.pptx - 18p</span>
+				</div>
+			</li><li id="vc-chapter-item-vertical-20" class="vc-chapter-item-vertical">
+				<div class="vc-chapter-item-thumb-box-vertical">
+					<div class="vc-chapter-item-thumb-vertical" style="background-image: url('https://kucom.korea.ac.kr/contents6/kruniv1001/609841a928fab/contents/web_files/chapter_thumbnail/small_slide_(9401374a-c509-4161-8f90-fddc3951a592).png');"></div>
+				     <div class="vc-chapter-item-time-vertical">
+						<div class="vc-chapter-item-time-text-vertical">50:46</div>
+					</div>
+				</div>
+				<div class="vc-chapter-item-description-vertical">
+					<span class="vc-chapter-item-description-text-vertical">이산수학-5월10일-2021.pptx - 19p</span>
+				</div>
+			</li><li id="vc-chapter-item-vertical-21" class="vc-chapter-item-vertical">
+				<div class="vc-chapter-item-thumb-box-vertical">
+					<div class="vc-chapter-item-thumb-vertical" style="background-image: url('https://kucom.korea.ac.kr/contents6/kruniv1001/609841a928fab/contents/web_files/chapter_thumbnail/small_slide_(56e20926-5681-40ac-b333-c13622e53744).png');"></div>
+				     <div class="vc-chapter-item-time-vertical">
+						<div class="vc-chapter-item-time-text-vertical">52:24</div>
+					</div>
+				</div>
+				<div class="vc-chapter-item-description-vertical">
+					<span class="vc-chapter-item-description-text-vertical">이산수학-5월10일-2021.pptx - 20p</span>
+				</div>
+			</li><li id="vc-chapter-item-vertical-22" class="vc-chapter-item-vertical">
+				<div class="vc-chapter-item-thumb-box-vertical">
+					<div class="vc-chapter-item-thumb-vertical" style="background-image: url('https://kucom.korea.ac.kr/contents6/kruniv1001/609841a928fab/contents/web_files/chapter_thumbnail/small_slide_(1efa426c-2802-4b72-bd14-7e47443049aa).png');"></div>
+				     <div class="vc-chapter-item-time-vertical">
+						<div class="vc-chapter-item-time-text-vertical">56:17</div>
+					</div>
+				</div>
+				<div class="vc-chapter-item-description-vertical">
+					<span class="vc-chapter-item-description-text-vertical">이산수학-5월10일-2021.pptx - 21p</span>
+				</div>
+			</li><li id="vc-chapter-item-vertical-23" class="vc-chapter-item-vertical">
+				<div class="vc-chapter-item-thumb-box-vertical">
+					<div class="vc-chapter-item-thumb-vertical" style="background-image: url('https://kucom.korea.ac.kr/contents6/kruniv1001/609841a928fab/contents/web_files/chapter_thumbnail/small_slide_(a8516fc0-1c4a-4fa3-9e97-2ba789afab83).png');"></div>
+				     <div class="vc-chapter-item-time-vertical">
+						<div class="vc-chapter-item-time-text-vertical">59:13</div>
+					</div>
+				</div>
+				<div class="vc-chapter-item-description-vertical">
+					<span class="vc-chapter-item-description-text-vertical">이산수학-5월10일-2021.pptx - 22p</span>
+				</div>
+			</li><li id="vc-chapter-item-vertical-24" class="vc-chapter-item-vertical">
+				<div class="vc-chapter-item-thumb-box-vertical">
+					<div class="vc-chapter-item-thumb-vertical" style="background-image: url('https://kucom.korea.ac.kr/contents6/kruniv1001/609841a928fab/contents/web_files/chapter_thumbnail/small_slide_(c12fa241-c6f1-4cca-8c79-0f841e937d5b).png');"></div>
+				     <div class="vc-chapter-item-time-vertical">
+						<div class="vc-chapter-item-time-text-vertical">01:05:01</div>
+					</div>
+				</div>
+				<div class="vc-chapter-item-description-vertical">
+					<span class="vc-chapter-item-description-text-vertical">이산수학-5월10일-2021.pptx - 23p</span>
+				</div>
+			</li><li id="vc-chapter-item-vertical-25" class="vc-chapter-item-vertical">
+				<div class="vc-chapter-item-thumb-box-vertical">
+					<div class="vc-chapter-item-thumb-vertical" style="background-image: url('https://kucom.korea.ac.kr/contents6/kruniv1001/609841a928fab/contents/web_files/chapter_thumbnail/small_slide_(8689eaec-2695-4fd7-a1ba-835a5ac60dc4).png');"></div>
+				     <div class="vc-chapter-item-time-vertical">
+						<div class="vc-chapter-item-time-text-vertical">01:11:04</div>
+					</div>
+				</div>
+				<div class="vc-chapter-item-description-vertical">
+					<span class="vc-chapter-item-description-text-vertical">이산수학-5월10일-2021.pptx - 24p</span>
+				</div>
+			</li><li id="vc-chapter-item-vertical-26" class="vc-chapter-item-vertical">
+				<div class="vc-chapter-item-thumb-box-vertical">
+					<div class="vc-chapter-item-thumb-vertical" style="background-image: url('https://kucom.korea.ac.kr/contents6/kruniv1001/609841a928fab/contents/web_files/chapter_thumbnail/small_slide_(0fed5939-1769-4eb8-a2d8-e2ca62dd9b21).png');"></div>
+				     <div class="vc-chapter-item-time-vertical">
+						<div class="vc-chapter-item-time-text-vertical">01:14:18</div>
+					</div>
+				</div>
+				<div class="vc-chapter-item-description-vertical">
+					<span class="vc-chapter-item-description-text-vertical">이산수학-5월10일-2021.pptx - 25p</span>
 				</div>
 			</li></div></div></ol>
 		</div>
@@ -717,10 +957,10 @@
 	</div>
 
 	<!-- 가로형 목차 -->
-	<div id="chapter-horizontal" style="width: 862px; height: 124px; display: block;">
+	<div id="chapter-horizontal" style="width: 579px; height: 124px; display: block;">
 		<div class="vc-chapter-container-horizontal non-selectable">
 			<div class="vc-chapter-list-wrapper-horizontal">
-				<div class="vc-chapter-list-horizontal jspScrollable" tabindex="0" style="overflow: hidden; padding: 0px; width: 792px;">
+				<div class="vc-chapter-list-horizontal jspScrollable" tabindex="0" style="overflow: hidden; padding: 0px; width: 509px;">
 			
 		
 			
@@ -740,9 +980,39 @@
 			
 		
 			
-		<div class="jspContainer" style="width: 792px; height: 116px;"><div class="jspPane" style="padding: 0px; top: 0px; left: 0px; width: 792px;"><div id="vc-chapter-item-horizontal-2" class="vc-chapter-item-horizontal vc-chapter-highlighted">
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		<div class="jspContainer" style="width: 509px; height: 116px;"><div class="jspPane" style="padding: 0px; top: 0px; left: 0px; width: 509px;"><div id="vc-chapter-item-horizontal-2" class="vc-chapter-item-horizontal vc-chapter-highlighted">
 				<div class="vc-chapter-item-thumb-container">
-					<div class="vc-chapter-item-thumb-horizontal" style="background-image: url('https://kucom.korea.ac.kr/contents6/kruniv1001/606d182711de/contents/web_files/chapter_thumbnail/small_slide_(9c423f9a-61d4-405e-bebd-327ccd6392a9).png');">
+					<div class="vc-chapter-item-thumb-horizontal" style="background-image: url('https://kucom.korea.ac.kr/contents6/kruniv1001/609841a928fab/contents/web_files/chapter_thumbnail/small_slide_(1da45b0f-06b8-470f-8caf-d114001dfb79).png');">
 					</div>
 					<div class="vc-chapter-item-time-horizontal">
 						<span class="vc-chapter-item-time-text-horizontal">
@@ -755,11 +1025,11 @@
 				</div>
 			</div><div id="vc-chapter-item-horizontal-3" class="vc-chapter-item-horizontal">
 				<div class="vc-chapter-item-thumb-container">
-					<div class="vc-chapter-item-thumb-horizontal" style="background-image: url('https://kucom.korea.ac.kr/contents6/kruniv1001/606d182711de/contents/web_files/chapter_thumbnail/small_slide_(b978c3da-f97e-450a-93e5-46697c1d9792).png');">
+					<div class="vc-chapter-item-thumb-horizontal" style="background-image: url('https://kucom.korea.ac.kr/contents6/kruniv1001/609841a928fab/contents/web_files/chapter_thumbnail/small_slide_(5936bceb-40e7-41f6-ac90-e61fc5e2409a).png');">
 					</div>
 					<div class="vc-chapter-item-time-horizontal">
 						<span class="vc-chapter-item-time-text-horizontal">
-							01:55
+							06:39
 						</span>
 					</div>
 				</div>
@@ -768,11 +1038,11 @@
 				</div>
 			</div><div id="vc-chapter-item-horizontal-4" class="vc-chapter-item-horizontal">
 				<div class="vc-chapter-item-thumb-container">
-					<div class="vc-chapter-item-thumb-horizontal" style="background-image: url('https://kucom.korea.ac.kr/contents6/kruniv1001/606d182711de/contents/web_files/chapter_thumbnail/small_slide_(69223bd2-a36f-46fd-87fe-665eb12faf81).png');">
+					<div class="vc-chapter-item-thumb-horizontal" style="background-image: url('https://kucom.korea.ac.kr/contents6/kruniv1001/609841a928fab/contents/web_files/chapter_thumbnail/small_slide_(c2859a07-6853-4325-ace6-b2bc99b25c7c).png');">
 					</div>
 					<div class="vc-chapter-item-time-horizontal">
 						<span class="vc-chapter-item-time-text-horizontal">
-							09:41
+							12:06
 						</span>
 					</div>
 				</div>
@@ -781,11 +1051,11 @@
 				</div>
 			</div><div id="vc-chapter-item-horizontal-5" class="vc-chapter-item-horizontal">
 				<div class="vc-chapter-item-thumb-container">
-					<div class="vc-chapter-item-thumb-horizontal" style="background-image: url('https://kucom.korea.ac.kr/contents6/kruniv1001/606d182711de/contents/web_files/chapter_thumbnail/small_slide_(5ccaa995-bb76-4b81-a2bf-deab57eb0627).png');">
+					<div class="vc-chapter-item-thumb-horizontal" style="background-image: url('https://kucom.korea.ac.kr/contents6/kruniv1001/609841a928fab/contents/web_files/chapter_thumbnail/small_slide_(f3e64254-f15c-4620-89a0-faa06a20eae6).png');">
 					</div>
 					<div class="vc-chapter-item-time-horizontal">
 						<span class="vc-chapter-item-time-text-horizontal">
-							24:09
+							14:17
 						</span>
 					</div>
 				</div>
@@ -794,11 +1064,11 @@
 				</div>
 			</div><div id="vc-chapter-item-horizontal-6" class="vc-chapter-item-horizontal">
 				<div class="vc-chapter-item-thumb-container">
-					<div class="vc-chapter-item-thumb-horizontal" style="background-image: url('https://kucom.korea.ac.kr/contents6/kruniv1001/606d182711de/contents/web_files/chapter_thumbnail/small_slide_(e6aea33f-87f3-419d-989f-a212eb892cf5).png');">
+					<div class="vc-chapter-item-thumb-horizontal" style="background-image: url('https://kucom.korea.ac.kr/contents6/kruniv1001/609841a928fab/contents/web_files/chapter_thumbnail/small_slide_(175414ef-d90f-4481-8a8f-811ff7cbe960).png');">
 					</div>
 					<div class="vc-chapter-item-time-horizontal">
 						<span class="vc-chapter-item-time-text-horizontal">
-							36:41
+							17:26
 						</span>
 					</div>
 				</div>
@@ -807,11 +1077,11 @@
 				</div>
 			</div><div id="vc-chapter-item-horizontal-7" class="vc-chapter-item-horizontal">
 				<div class="vc-chapter-item-thumb-container">
-					<div class="vc-chapter-item-thumb-horizontal" style="background-image: url('https://kucom.korea.ac.kr/contents6/kruniv1001/606d182711de/contents/web_files/chapter_thumbnail/small_slide_(5568748d-97f4-4cbb-9721-f4a053768253).png');">
+					<div class="vc-chapter-item-thumb-horizontal" style="background-image: url('https://kucom.korea.ac.kr/contents6/kruniv1001/609841a928fab/contents/web_files/chapter_thumbnail/small_slide_(f8534654-e589-4137-9610-fe932ed90dbf).png');">
 					</div>
 					<div class="vc-chapter-item-time-horizontal">
 						<span class="vc-chapter-item-time-text-horizontal">
-							45:27
+							19:46
 						</span>
 					</div>
 				</div>
@@ -820,11 +1090,11 @@
 				</div>
 			</div><div id="vc-chapter-item-horizontal-8" class="vc-chapter-item-horizontal">
 				<div class="vc-chapter-item-thumb-container">
-					<div class="vc-chapter-item-thumb-horizontal" style="background-image: url('https://kucom.korea.ac.kr/contents6/kruniv1001/606d182711de/contents/web_files/chapter_thumbnail/small_slide_(88f4472e-dfb5-445d-88fa-8a043b69188f).png');">
+					<div class="vc-chapter-item-thumb-horizontal" style="background-image: url('https://kucom.korea.ac.kr/contents6/kruniv1001/609841a928fab/contents/web_files/chapter_thumbnail/small_slide_(6b57a731-deb3-47b7-b0ec-a765cfaf56b0).png');">
 					</div>
 					<div class="vc-chapter-item-time-horizontal">
 						<span class="vc-chapter-item-time-text-horizontal">
-							48:44
+							22:01
 						</span>
 					</div>
 				</div>
@@ -833,11 +1103,11 @@
 				</div>
 			</div><div id="vc-chapter-item-horizontal-9" class="vc-chapter-item-horizontal">
 				<div class="vc-chapter-item-thumb-container">
-					<div class="vc-chapter-item-thumb-horizontal" style="background-image: url('https://kucom.korea.ac.kr/contents6/kruniv1001/606d182711de/contents/web_files/chapter_thumbnail/small_slide_(9173cd69-866f-4b06-a51e-98875e8ce893).png');">
+					<div class="vc-chapter-item-thumb-horizontal" style="background-image: url('https://kucom.korea.ac.kr/contents6/kruniv1001/609841a928fab/contents/web_files/chapter_thumbnail/small_slide_(4622e5f5-198c-43c2-a9d4-a99c19f2e10e).png');">
 					</div>
 					<div class="vc-chapter-item-time-horizontal">
 						<span class="vc-chapter-item-time-text-horizontal">
-							58:02
+							25:54
 						</span>
 					</div>
 				</div>
@@ -846,11 +1116,11 @@
 				</div>
 			</div><div id="vc-chapter-item-horizontal-10" class="vc-chapter-item-horizontal">
 				<div class="vc-chapter-item-thumb-container">
-					<div class="vc-chapter-item-thumb-horizontal" style="background-image: url('https://kucom.korea.ac.kr/contents6/kruniv1001/606d182711de/contents/web_files/chapter_thumbnail/small_slide_(b12b3af4-0ea3-42fa-8fb5-51aaeda24f54).png');">
+					<div class="vc-chapter-item-thumb-horizontal" style="background-image: url('https://kucom.korea.ac.kr/contents6/kruniv1001/609841a928fab/contents/web_files/chapter_thumbnail/small_slide_(99ec74b6-8c98-4cfc-984e-840b8b031c00).png');">
 					</div>
 					<div class="vc-chapter-item-time-horizontal">
 						<span class="vc-chapter-item-time-text-horizontal">
-							01:08:48
+							27:05
 						</span>
 					</div>
 				</div>
@@ -859,18 +1129,213 @@
 				</div>
 			</div><div id="vc-chapter-item-horizontal-11" class="vc-chapter-item-horizontal">
 				<div class="vc-chapter-item-thumb-container">
-					<div class="vc-chapter-item-thumb-horizontal" style="background-image: url('https://kucom.korea.ac.kr/contents6/kruniv1001/606d182711de/contents/web_files/chapter_thumbnail/small_slide_(bd3debf3-0267-42ae-92bf-78c852dd4ed0).png');">
+					<div class="vc-chapter-item-thumb-horizontal" style="background-image: url('https://kucom.korea.ac.kr/contents6/kruniv1001/609841a928fab/contents/web_files/chapter_thumbnail/small_slide_(0b4ab5c8-d109-4716-824b-5b8741d71ea7).png');">
 					</div>
 					<div class="vc-chapter-item-time-horizontal">
 						<span class="vc-chapter-item-time-text-horizontal">
-							01:13:56
+							29:06
 						</span>
 					</div>
 				</div>
 				<div class="vc-chapter-item-index-horizontal">
 					10
 				</div>
-			</div></div><div class="jspHorizontalBar"><div class="jspCap jspCapLeft"></div><div class="jspTrack" style="width: 792px;"><div class="jspDrag" style="width: 639px;"><div class="jspDragLeft"></div><div class="jspDragRight"></div></div></div><div class="jspCap jspCapRight"></div></div></div></div>
+			</div><div id="vc-chapter-item-horizontal-12" class="vc-chapter-item-horizontal">
+				<div class="vc-chapter-item-thumb-container">
+					<div class="vc-chapter-item-thumb-horizontal" style="background-image: url('https://kucom.korea.ac.kr/contents6/kruniv1001/609841a928fab/contents/web_files/chapter_thumbnail/small_slide_(d45b56fb-c665-4876-9895-c201ed77bf83).png');">
+					</div>
+					<div class="vc-chapter-item-time-horizontal">
+						<span class="vc-chapter-item-time-text-horizontal">
+							31:27
+						</span>
+					</div>
+				</div>
+				<div class="vc-chapter-item-index-horizontal">
+					11
+				</div>
+			</div><div id="vc-chapter-item-horizontal-13" class="vc-chapter-item-horizontal">
+				<div class="vc-chapter-item-thumb-container">
+					<div class="vc-chapter-item-thumb-horizontal" style="background-image: url('https://kucom.korea.ac.kr/contents6/kruniv1001/609841a928fab/contents/web_files/chapter_thumbnail/small_slide_(3d5d0c77-c6cf-491d-8d42-40351696cbec).png');">
+					</div>
+					<div class="vc-chapter-item-time-horizontal">
+						<span class="vc-chapter-item-time-text-horizontal">
+							33:34
+						</span>
+					</div>
+				</div>
+				<div class="vc-chapter-item-index-horizontal">
+					12
+				</div>
+			</div><div id="vc-chapter-item-horizontal-14" class="vc-chapter-item-horizontal">
+				<div class="vc-chapter-item-thumb-container">
+					<div class="vc-chapter-item-thumb-horizontal" style="background-image: url('https://kucom.korea.ac.kr/contents6/kruniv1001/609841a928fab/contents/web_files/chapter_thumbnail/small_slide_(35b26813-2a6e-4eb2-8c38-47e4f4ade39a).png');">
+					</div>
+					<div class="vc-chapter-item-time-horizontal">
+						<span class="vc-chapter-item-time-text-horizontal">
+							37:12
+						</span>
+					</div>
+				</div>
+				<div class="vc-chapter-item-index-horizontal">
+					13
+				</div>
+			</div><div id="vc-chapter-item-horizontal-15" class="vc-chapter-item-horizontal">
+				<div class="vc-chapter-item-thumb-container">
+					<div class="vc-chapter-item-thumb-horizontal" style="background-image: url('https://kucom.korea.ac.kr/contents6/kruniv1001/609841a928fab/contents/web_files/chapter_thumbnail/small_slide_(27aa2354-4057-4c9c-831a-643d46b3039a).png');">
+					</div>
+					<div class="vc-chapter-item-time-horizontal">
+						<span class="vc-chapter-item-time-text-horizontal">
+							38:55
+						</span>
+					</div>
+				</div>
+				<div class="vc-chapter-item-index-horizontal">
+					14
+				</div>
+			</div><div id="vc-chapter-item-horizontal-16" class="vc-chapter-item-horizontal">
+				<div class="vc-chapter-item-thumb-container">
+					<div class="vc-chapter-item-thumb-horizontal" style="background-image: url('https://kucom.korea.ac.kr/contents6/kruniv1001/609841a928fab/contents/web_files/chapter_thumbnail/small_slide_(1db216b2-a246-4f04-9244-745a5daa28ca).png');">
+					</div>
+					<div class="vc-chapter-item-time-horizontal">
+						<span class="vc-chapter-item-time-text-horizontal">
+							40:03
+						</span>
+					</div>
+				</div>
+				<div class="vc-chapter-item-index-horizontal">
+					15
+				</div>
+			</div><div id="vc-chapter-item-horizontal-17" class="vc-chapter-item-horizontal">
+				<div class="vc-chapter-item-thumb-container">
+					<div class="vc-chapter-item-thumb-horizontal" style="background-image: url('https://kucom.korea.ac.kr/contents6/kruniv1001/609841a928fab/contents/web_files/chapter_thumbnail/small_slide_(66986b7a-3ccf-429b-b766-5b44532f3ac3).png');">
+					</div>
+					<div class="vc-chapter-item-time-horizontal">
+						<span class="vc-chapter-item-time-text-horizontal">
+							43:16
+						</span>
+					</div>
+				</div>
+				<div class="vc-chapter-item-index-horizontal">
+					16
+				</div>
+			</div><div id="vc-chapter-item-horizontal-18" class="vc-chapter-item-horizontal">
+				<div class="vc-chapter-item-thumb-container">
+					<div class="vc-chapter-item-thumb-horizontal" style="background-image: url('https://kucom.korea.ac.kr/contents6/kruniv1001/609841a928fab/contents/web_files/chapter_thumbnail/small_slide_(66905995-eb73-4901-a48e-622e5a6cbb80).png');">
+					</div>
+					<div class="vc-chapter-item-time-horizontal">
+						<span class="vc-chapter-item-time-text-horizontal">
+							46:04
+						</span>
+					</div>
+				</div>
+				<div class="vc-chapter-item-index-horizontal">
+					17
+				</div>
+			</div><div id="vc-chapter-item-horizontal-19" class="vc-chapter-item-horizontal">
+				<div class="vc-chapter-item-thumb-container">
+					<div class="vc-chapter-item-thumb-horizontal" style="background-image: url('https://kucom.korea.ac.kr/contents6/kruniv1001/609841a928fab/contents/web_files/chapter_thumbnail/small_slide_(b6395916-cdc8-4ea6-9909-5173994bc813).png');">
+					</div>
+					<div class="vc-chapter-item-time-horizontal">
+						<span class="vc-chapter-item-time-text-horizontal">
+							47:57
+						</span>
+					</div>
+				</div>
+				<div class="vc-chapter-item-index-horizontal">
+					18
+				</div>
+			</div><div id="vc-chapter-item-horizontal-20" class="vc-chapter-item-horizontal">
+				<div class="vc-chapter-item-thumb-container">
+					<div class="vc-chapter-item-thumb-horizontal" style="background-image: url('https://kucom.korea.ac.kr/contents6/kruniv1001/609841a928fab/contents/web_files/chapter_thumbnail/small_slide_(9401374a-c509-4161-8f90-fddc3951a592).png');">
+					</div>
+					<div class="vc-chapter-item-time-horizontal">
+						<span class="vc-chapter-item-time-text-horizontal">
+							50:46
+						</span>
+					</div>
+				</div>
+				<div class="vc-chapter-item-index-horizontal">
+					19
+				</div>
+			</div><div id="vc-chapter-item-horizontal-21" class="vc-chapter-item-horizontal">
+				<div class="vc-chapter-item-thumb-container">
+					<div class="vc-chapter-item-thumb-horizontal" style="background-image: url('https://kucom.korea.ac.kr/contents6/kruniv1001/609841a928fab/contents/web_files/chapter_thumbnail/small_slide_(56e20926-5681-40ac-b333-c13622e53744).png');">
+					</div>
+					<div class="vc-chapter-item-time-horizontal">
+						<span class="vc-chapter-item-time-text-horizontal">
+							52:24
+						</span>
+					</div>
+				</div>
+				<div class="vc-chapter-item-index-horizontal">
+					20
+				</div>
+			</div><div id="vc-chapter-item-horizontal-22" class="vc-chapter-item-horizontal">
+				<div class="vc-chapter-item-thumb-container">
+					<div class="vc-chapter-item-thumb-horizontal" style="background-image: url('https://kucom.korea.ac.kr/contents6/kruniv1001/609841a928fab/contents/web_files/chapter_thumbnail/small_slide_(1efa426c-2802-4b72-bd14-7e47443049aa).png');">
+					</div>
+					<div class="vc-chapter-item-time-horizontal">
+						<span class="vc-chapter-item-time-text-horizontal">
+							56:17
+						</span>
+					</div>
+				</div>
+				<div class="vc-chapter-item-index-horizontal">
+					21
+				</div>
+			</div><div id="vc-chapter-item-horizontal-23" class="vc-chapter-item-horizontal">
+				<div class="vc-chapter-item-thumb-container">
+					<div class="vc-chapter-item-thumb-horizontal" style="background-image: url('https://kucom.korea.ac.kr/contents6/kruniv1001/609841a928fab/contents/web_files/chapter_thumbnail/small_slide_(a8516fc0-1c4a-4fa3-9e97-2ba789afab83).png');">
+					</div>
+					<div class="vc-chapter-item-time-horizontal">
+						<span class="vc-chapter-item-time-text-horizontal">
+							59:13
+						</span>
+					</div>
+				</div>
+				<div class="vc-chapter-item-index-horizontal">
+					22
+				</div>
+			</div><div id="vc-chapter-item-horizontal-24" class="vc-chapter-item-horizontal">
+				<div class="vc-chapter-item-thumb-container">
+					<div class="vc-chapter-item-thumb-horizontal" style="background-image: url('https://kucom.korea.ac.kr/contents6/kruniv1001/609841a928fab/contents/web_files/chapter_thumbnail/small_slide_(c12fa241-c6f1-4cca-8c79-0f841e937d5b).png');">
+					</div>
+					<div class="vc-chapter-item-time-horizontal">
+						<span class="vc-chapter-item-time-text-horizontal">
+							01:05:01
+						</span>
+					</div>
+				</div>
+				<div class="vc-chapter-item-index-horizontal">
+					23
+				</div>
+			</div><div id="vc-chapter-item-horizontal-25" class="vc-chapter-item-horizontal">
+				<div class="vc-chapter-item-thumb-container">
+					<div class="vc-chapter-item-thumb-horizontal" style="background-image: url('https://kucom.korea.ac.kr/contents6/kruniv1001/609841a928fab/contents/web_files/chapter_thumbnail/small_slide_(8689eaec-2695-4fd7-a1ba-835a5ac60dc4).png');">
+					</div>
+					<div class="vc-chapter-item-time-horizontal">
+						<span class="vc-chapter-item-time-text-horizontal">
+							01:11:04
+						</span>
+					</div>
+				</div>
+				<div class="vc-chapter-item-index-horizontal">
+					24
+				</div>
+			</div><div id="vc-chapter-item-horizontal-26" class="vc-chapter-item-horizontal">
+				<div class="vc-chapter-item-thumb-container">
+					<div class="vc-chapter-item-thumb-horizontal" style="background-image: url('https://kucom.korea.ac.kr/contents6/kruniv1001/609841a928fab/contents/web_files/chapter_thumbnail/small_slide_(0fed5939-1769-4eb8-a2d8-e2ca62dd9b21).png');">
+					</div>
+					<div class="vc-chapter-item-time-horizontal">
+						<span class="vc-chapter-item-time-text-horizontal">
+							01:14:18
+						</span>
+					</div>
+				</div>
+				<div class="vc-chapter-item-index-horizontal">
+					25
+				</div>
+			</div></div><div class="jspHorizontalBar"><div class="jspCap jspCapLeft"></div><div class="jspTrack" style="width: 509px;"><div class="jspDrag" style="width: 106px;"><div class="jspDragLeft"></div><div class="jspDragRight"></div></div></div><div class="jspCap jspCapRight"></div></div></div></div>
 			</div>
 			<div class="vc-chapter-left-btn-horizontal"></div>
 			<div class="vc-chapter-right-btn-horizontal"></div>
@@ -899,34 +1364,34 @@
 	</div>
 
 	<!-- 재생 컨트롤러 -->
-	<div id="play-controller" style="width: 862px; display: block;">
+	<div id="play-controller" style="width: 579px; display: block;">
 		<div class="vc-pctrl-container non-selectable">
 			<div class="vc-pctrl-wrapper">
 				<div class="vc-pctrl-time-tracker">
-					<div class="vc-pctrl-load-progress" style="width: 5.64%;"></div>
+					<div class="vc-pctrl-load-progress" style="width: 0%;"></div>
 					<div class="vc-pctrl-seek-limit-progress"></div>
-					<div class="vc-pctrl-play-progress" style="width: 0.07%;"></div>
+					<div class="vc-pctrl-play-progress"></div>
 					<div class="vc-pctrl-intro-play-progress" style="width: 0%;"></div>
-					<div class="vc-pctrl-seek-thumb" style="left: 0.07%;"></div>
+					<div class="vc-pctrl-seek-thumb" style="left: 97.24%;"></div>
 				</div>
 				<div class="vc-pctrl-buttons-bar">
 					<div class="vc-pctrl-play-pause-btn vc-pctrl-on-playing" tabindex="4" title="일시정지"></div>
 					<div class="vc-pctrl-restart-btn" tabindex="16" title="다시재생"></div>
 					<div class="vc-pctrl-volume-hover-area">
-						<div class="vc-pctrl-volume-btn" tabindex="5" title="음소거"></div>
+						<div class="vc-pctrl-volume-btn muted" tabindex="5" title="음소거 해제"></div>
 						<div class="vc-pctrl-volume-setting-panel">
 							<div class="vc-pctrl-volume-slider">
-								<div class="vc-pctrl-volume-gauge" style="width: 50%;"></div>
-								<div class="vc-pctrl-volume-thumb" style="margin-left: 24.5px;"></div>
+								<div class="vc-pctrl-volume-gauge" style="width: 0%;"></div>
+								<div class="vc-pctrl-volume-thumb" style="margin-left: 0px;"></div>
 							</div>
 							<div class="vc-pctrl-volume-size-bar"></div>
 						</div>
 					</div>
 
 					<div class="vc-pctrl-play-time-text-area">
-						<span class="vc-pctrl-curr-time">00:03</span>
+						<span class="vc-pctrl-curr-time">00:04</span>
 						<span class="vc-pctrl-time-separator">/</span>
-						<span class="vc-pctrl-total-duration">01:15:07</span>
+						<span class="vc-pctrl-total-duration">00:04</span>
 					</div>
 					
 					<button class="vc-pctrl-fullscreen-btn vc-pctrl-on-normal-screen" tabindex="12" title="전체화면"></button>
@@ -987,14 +1452,14 @@
     </div>
 
 	<!-- 다시 재생 버튼 -->
-	<div id="player-center-control" style="width: 862px;">
+	<div id="player-center-control" style="width: 579px;">
 		<div class="player-center-control-wrapper">
 			<div class="player-restart-btn" tabindex="16" title="다시재생"></div>
 		</div>
 	</div>
 
 	<!-- 로딩중 표시 -->
-	<div id="loading-indicator" style="left: 406px; top: 338.5px; display: none;">
+	<div id="loading-indicator" style="left: 264.5px; top: 309.5px; display: block;">
 		<div id="loading-indicator-gif-fallback"></div>
 	</div>
 </div>
@@ -1002,7 +1467,7 @@
 
 	<!-- 공유/정보 영역  시작-->
 	<!-- <div id="share_view" style="position:absolute;width:100%;height:100%;z-index:2000;display:none;">
-		<iframe id="share_frame" class="share_iframe" frameborder="0" src="https://kucom.korea.ac.kr/index.php?module=xn_view_page2013&act=dispXn_view_page2013MediaContentShare&content_id=606d182711de&target=media" style="width:100%;height:100%"></iframe>
+		<iframe id="share_frame" class="share_iframe" frameborder="0" src="https://kucom.korea.ac.kr/index.php?module=xn_view_page2013&act=dispXn_view_page2013MediaContentShare&content_id=609841a928fab&target=media" style="width:100%;height:100%"></iframe>
 	</div> -->
 	<div id="info_view" style="position:absolute;width:100%;height:100%;z-index:2000;display:none;">
 	</div>
@@ -1015,7 +1480,7 @@
 <script type="text/javascript">
 	var targetElement = '#player-area';
 	var uniPlayerSettingsUri = '/settings/viewer/uniplayer/uniplayer_settings.xml';
-	var contentUri = '/viewer/ssplayer/uniplayer_support/content.php?content_id=606d182711de';
+	var contentUri = '/viewer/ssplayer/uniplayer_support/content.php?content_id=609841a928fab';
 	var playListUri = null;
 
 	launcher.run(targetElement, uniPlayerSettingsUri, contentUri, playListUri);
@@ -1045,7 +1510,7 @@ function closeInfoFrame() {
 		},
 
 		infoBtnClick: function() {
-			var infoUrl = 'https://kucom.korea.ac.kr/index.php?module=xn_view_page2013&act=dispXn_view_page2013MediaContentInfo&content_id=606d182711de';
+			var infoUrl = 'https://kucom.korea.ac.kr/index.php?module=xn_view_page2013&act=dispXn_view_page2013MediaContentInfo&content_id=609841a928fab';
 			if (!isInfoFrameLoaded) {
 				var frameSrc = '<iframe id="info_frame" class="share_iframe" frameborder="0" src="' +
 					infoUrl + '"></iframe>';

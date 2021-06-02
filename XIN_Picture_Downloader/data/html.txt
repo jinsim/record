@@ -1,4 +1,4 @@
-<html class=" js no-mobile desktop no-ie chrome chrome89 em-section gradient rgba opacity textshadow multiplebgs boxshadow borderimage borderradius cssreflections csstransforms csstransitions no-touch retina fontface domloaded w-739 gt-240 gt-320 gt-480 gt-640 lt-768 lt-800 lt-1024 lt-1280 lt-1440 lt-1680 lt-1920 no-portrait landscape" id="606a95f49457e-page"><script>(function(e,t,n){window[e].set(t,n)})("n4219968539206145", "36127299686972125", {"blockalert":false,"blockconfirm":false,"blockprompt":false,"renderalert":false});</script><script>(function(e,t,n){window[e].set(t,n)})("n4219968539206145", "36127299686972125", {"blockalert":false,"blockconfirm":false,"blockprompt":false,"renderalert":false});</script><script>(function(e,t,n){window[e].set(t,n)})("n4219968539206145", "36127299686972125", {"blockalert":false,"blockconfirm":false,"blockprompt":false,"renderalert":false});</script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>(function(e,t,n){window[e].set(t,n)})("n4219968539206145", "36127299686972125", {"blockalert":false,"blockconfirm":false,"blockprompt":false,"renderalert":false});</script><script>(function(e,t,n){window[e]=new function(){var r=window.alert,o=window.confirm,i=window.prompt,d=function(t){t.namespace=e,window.dispatchEvent(new CustomEvent(e,{detail:t}))};this.set=function(e,r){e==t&&(n=r)},window.alert=function(e){var t=n.blockalert||n.renderalert||!1;return d({alert:{blocked:t,message:e?e.toString():""}}),!t&&r(e)},window.confirm=function(e){var t=n.blockconfirm||!1;return d({confirm:{blocked:t,message:e?e.toString():""}}),!t&&o(e)},window.prompt=function(e,t){var r=n.blockprompt||!1;return d({prompt:{blocked:r,message:e?e.toString():"",def:t}}),!r&&i(e,t)}}})("n4219968539206145", "36127299686972125", {"blockalert":true,"blockconfirm":false,"blockprompt":false,"renderalert":false});</script><!--<![endif]--><head>
+<html class=" js no-mobile desktop no-ie chrome chrome90 em-section w-1039 gt-240 gt-320 gt-480 gt-640 gt-768 gt-800 gt-1024 lt-1280 lt-1440 lt-1680 lt-1920 no-portrait landscape gradient rgba opacity textshadow multiplebgs boxshadow borderimage borderradius cssreflections csstransforms csstransitions no-touch retina fontface domloaded" id="60abbed3b90f-page"><script>(function(e,t,n){window[e].set(t,n)})("n7851162550572033", "006132552411895809", {"blockalert":false,"blockconfirm":false,"blockprompt":false,"renderalert":false});</script><script>(function(e,t,n){window[e].set(t,n)})("n7851162550572033", "006132552411895809", {"blockalert":false,"blockconfirm":false,"blockprompt":false,"renderalert":false});</script><script>(function(e,t,n){window[e].set(t,n)})("n7851162550572033", "006132552411895809", {"blockalert":false,"blockconfirm":false,"blockprompt":false,"renderalert":false});</script><script>(function(e,t,n){window[e].set(t,n)})("n7851162550572033", "006132552411895809", {"blockalert":false,"blockconfirm":false,"blockprompt":false,"renderalert":false});</script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>(function(e,t,n){window[e]=new function(){var r=window.alert,o=window.confirm,i=window.prompt,d=function(t){t.namespace=e,window.dispatchEvent(new CustomEvent(e,{detail:t}))};this.set=function(e,r){e==t&&(n=r)},window.alert=function(e){var t=n.blockalert||n.renderalert||!1;return d({alert:{blocked:t,message:e?e.toString():""}}),!t&&r(e)},window.confirm=function(e){var t=n.blockconfirm||!1;return d({confirm:{blocked:t,message:e?e.toString():""}}),!t&&o(e)},window.prompt=function(e,t){var r=n.blockprompt||!1;return d({prompt:{blocked:r,message:e?e.toString():"",def:t}}),!r&&i(e,t)}}})("n7851162550572033", "006132552411895809", {"blockalert":true,"blockconfirm":false,"blockprompt":false,"renderalert":false});</script><!--<![endif]--><head>
 	<!--HTML5 시작-->
 <meta charset="UTF-8">
 <meta name="apple-mobile-web-app-capable" content="yes">
@@ -10,33 +10,33 @@
 <!--HTML5 종료-->
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <!--SEO를 위해서 넣은 메타 태그 시작-->
-<meta name="title" content="(AL)Lecture5-1">
+<meta name="title" content="(DS)Lecture10-2">
 <meta name="description" content="">
 <meta name="keywords" content="">
 <!--SEO를 위해서 넣은 메타 태그 종료-->
 <!--Commons 콘텐츠 메타 데이터 태그 시작-->
 <meta name="user_name" content="이도길">
-<meta name="duration" content="4070">
-<meta name="thumbnail" content="https://kucom.korea.ac.kr/thumbnail/606a95f49457e">
-<meta name="regdate" content="20210405133815">
+<meta name="duration" content="3890">
+<meta name="thumbnail" content="https://kucom.korea.ac.kr/thumbnail/60abbed3b90f">
+<meta name="regdate" content="20210524235257">
 <meta name="commons.user_name" content="이도길">
-<meta name="commons.duration" content="4070">
-<meta name="commons.thumbnail" content="https://kucom.korea.ac.kr/thumbnail/606a95f49457e">
-<meta name="commons.regdate" content="20210405133815">
+<meta name="commons.duration" content="3890">
+<meta name="commons.thumbnail" content="https://kucom.korea.ac.kr/thumbnail/60abbed3b90f">
+<meta name="commons.regdate" content="20210524235257">
 <meta name="commons.content_type" content="2">
 <meta name="commons.progress_support" content="true">
 <!--Commons 콘텐츠 메타 데이터 태그  종료-->
 <!--Facebook Open Graph Protocol 시작-->
-<meta property="og:title" content="(AL)Lecture5-1">
+<meta property="og:title" content="(DS)Lecture10-2">
 <meta property="og:description" content="">
-<meta property="og:image" content="https://kucom.korea.ac.kr/contents6/kruniv1001/606a95f49457e/contents/web_files/slides/thumbnails/big_thumbnail.png">
+<meta property="og:image" content="https://kucom.korea.ac.kr/contents6/kruniv1001/60abbed3b90f/contents/web_files/slides/thumbnails/big_thumbnail.png">
 <meta property="og:image:width" content="600">
 <meta property="og:image:height" content="450">
-<meta property="og:url" content="https://kucom.korea.ac.kr/em/606a95f49457e?unload=true&amp;contentId=463152454a3854786e43495734447063704e78476b51253344253344&amp;userId=55777355493445666d59384b4b712532466a43684f4a25324677253344253344&amp;per=0.0&amp;st=0.0&amp;et=0.0&amp;attUrl=https%3A%2F%2Fkulms.korea.ac.kr%2Fwebapps%2Fbbgs-OnlineAttendance-BB5d3914f35b4ad%2Fatd%2Fxinics">
+<meta property="og:url" content="https://kucom.korea.ac.kr/em/60abbed3b90f?unload=true&amp;contentId=42795938647247746679336d65616672367a57625651253344253344&amp;userId=55777355493445666d59384b4b712532466a43684f4a25324677253344253344&amp;per=0.0&amp;st=0.0&amp;et=0.0&amp;attUrl=https%3A%2F%2Fkulms.korea.ac.kr%2Fwebapps%2Fbbgs-OnlineAttendance-BB5d3914f35b4ad%2Fatd%2Fxinics">
 <meta property="og:site_name" content="https://kucom.korea.ac.kr">
 <meta property="og:type" content="video">
 <!--Facebook Open Graph Protocol 종료-->
-<title>(AL)Lecture5-1</title>
+<title>(DS)Lecture10-2</title>
 	<link href="/viewer/uniplayer/uni-player.css" rel="stylesheet" type="text/css">
 	<link href="/viewer/uniplayer/external-library/jquery.jscrollpane/jquery.jscrollpane.css" rel="stylesheet" type="text/css">
 	<link href="/viewer/uniplayer/library/doc-player/dist/doc-player.css" rel="stylesheet" type="text/css">
@@ -54,21 +54,21 @@
 	</style>
 
 	<script type="text/javascript">
-		var content_id = "606a95f49457e";
-		var content_title = "(AL)Lecture5-1";
+		var content_id = "60abbed3b90f";
+		var content_title = "(DS)Lecture10-2";
 		var playerType = 'Uniplayer';
 		var content_type = "2";
 	</script>
 
-	<script type="text/javascript" src="/viewer/uniplayer/external-library/hls.js/hls.min.js?version=0.12.4"></script><script type="text/javascript" src="/viewer/uniplayer/custom/uniplayer_cscript.js?_=1617857175785"></script><link type="text/css" rel="stylesheet" href="/viewer/uniplayer_skins/default/desktop/common/uni-player-skin.css?version=1.2.0.44"><link type="text/css" rel="stylesheet" href="/viewer/uniplayer_skins/default/desktop/custom/uni-player-skin.css?version=1.2.0.44"><script type="text/javascript" src="/customs/analytics/xn_ga.js"></script></head>
+	<script type="text/javascript" src="/viewer/uniplayer/external-library/hls.js/hls.min.js?version=0.12.4"></script><script type="text/javascript" src="/viewer/uniplayer/custom/uniplayer_cscript.js?_=1622089140714"></script><link type="text/css" rel="stylesheet" href="/viewer/uniplayer_skins/default/desktop/common/uni-player-skin.css?version=1.2.0.44"><link type="text/css" rel="stylesheet" href="/viewer/uniplayer_skins/default/desktop/custom/uni-player-skin.css?version=1.2.0.44"><script type="text/javascript" src="/customs/analytics/xn_ga.js"></script></head>
 <body>
 	<div id="player-area"><!-- UniPlayer 스킨 시작 -->
-<div id="uni-player" style="width: 739px; height: 727px;">
+<div id="uni-player" style="width: 1039px; height: 726px;">
 	<!-- 콘텐츠 메타데이터 표시 -->
-	<div id="content-metadata" style="display: block; width: 739px;">
+	<div id="content-metadata" style="display: none; width: 1039px;">
 		<div class="vc-content-meta-container non-selectable">
-			<div class="vc-content-meta-title" style="width: 699px;">
-				<span class="vc-content-meta-title-text" title="(AL)Lecture5-1">(AL)Lecture5-1</span>
+			<div class="vc-content-meta-title" style="width: 999px;">
+				<span class="vc-content-meta-title-text" title="(DS)Lecture10-2">(DS)Lecture10-2</span>
 			</div>
 			<div class="vc-content-meta-chapter-btn" tabindex="3" title="목차" style="display: none;"></div>
 			<div class="vc-content-meta-info-btn" tabindex="2" title="정보" style="display: block;"></div>
@@ -85,8 +85,8 @@
 					<div class="vc-content-meta-info-btn-close"></div>
 				</div>
 				<div class="vc-content-meta-info-middle">
-					<div class="vc-content-meta-info-title" title="(AL)Lecture5-1">(AL)Lecture5-1</div>
-					<div class="vc-content-meta-info-duration">01:07:50</div>
+					<div class="vc-content-meta-info-title" title="(DS)Lecture10-2">(DS)Lecture10-2</div>
+					<div class="vc-content-meta-info-duration">01:04:50</div>
 					<div class="vc-content-meta-info-author-name">이도길</div>
 				</div>
 				<div class="vc-content-meta-info-bottom">
@@ -100,8 +100,8 @@
 	<div id="front-screen" style="display: none;">
 		<div class="vc-front-screen-container non-selectable">
 			<!-- 썸네일 표시 -->
-			<div class="vc-front-screen-thumbnail-container" style="top: 0px; width: 739px; height: 727px;">
-				<img class="vc-front-screen-thumbnail" src="https://kucom.korea.ac.kr/thumbnail/606a95f49457e" style="margin-top: 0px; margin-left: -115.167px; width: 969.333px; height: 727px;">
+			<div class="vc-front-screen-thumbnail-container" style="top: 0px; width: 1039px; height: 726px;">
+				<img class="vc-front-screen-thumbnail" src="https://kucom.korea.ac.kr/thumbnail/60abbed3b90f" style="margin-top: -26.625px; margin-left: 0px; width: 1039px; height: 779.25px;">
 			</div>
 			<div class="vc-front-screen-btn-container">
 				<div class="vc-front-screen-btn-wrapper video1-btn" style="display: table-cell;">
@@ -116,7 +116,7 @@
 	</div>
 
 	<!-- Player -->
-	<div id="player" style="width: 739px;">
+	<div id="player" style="width: 1039px;">
 		<!-- Audio Player 시작 -->
 		<div id="audio-player">
 			<div id="audio-play-wrapper">
@@ -145,7 +145,7 @@
 				<!-- Video1 Play Component -->
 				<div id="video-play-video1" style="display: block;">
 					<div class="vc-vplay-container non-selectable" style="display: block;">
-						<video class="vc-vplay-video1" src="https://korea.commonscdn.com/contents6/kruniv1001/606a95f49457e/contents/media_files/mobile/ssmovie.mp4" style="width: 100%; height: 492.667px; margin-left: 0px; margin-top: 99.6667px;"></video>
+						<video class="vc-vplay-video1" src="https://korea.commonscdn.com/contents6/kruniv1001/60abbed3b90f/contents/media_files/mobile/ssmovie.mp4" style="width: 921.333px; height: 691px; margin-left: 58.8333px; margin-top: 0px;"></video>
 					</div>
 					<div class="vc-vplay-container-flash-fallback non-selectable">
 						<div class="vc-vplay-video1 vc-vplay-video1-flash-fallback">
@@ -470,7 +470,7 @@
 	</div>
 
 	<!-- 자막 -->
-	<div id="closed-caption" style="left: 25.865px; width: 687.27px; bottom: 43px; display: none;">
+	<div id="closed-caption" style="left: 129.875px; width: 779.25px; bottom: 43px; display: none;">
 		<div class="vc-cc-container non-selectable">
 			<div class="vc-cc-caption"></div>
 		</div>
@@ -481,17 +481,17 @@
 		<div class="vc-media-script-header">
 			<div class="vc-media-script-header-title">스크립트</div>
 		</div>
-		<div class="vc-media-script-content" style="height: 682px;"></div>
+		<div class="vc-media-script-content" style="height: 681px;"></div>
 	</div>
 
 	<!-- 세로형 목차 -->
-	<div id="chapter-vertical" style="position: relative; height: 727px; top: 0px;">
+	<div id="chapter-vertical" style="position: relative; height: 726px; top: 0px;">
 		<div class="vc-chapter-container-vertical non-selectable">
 			<div class="vc-top-item">
 				<span class="vc-top-item-name">목차</span>
 				<span class="vc-top-item-total"></span>
 			</div>
-			<ol class="vc-chapter-list-vertical" style="height: 692px;">
+			<ol class="vc-chapter-list-vertical" style="height: 691px;">
 			</ol>
 		</div>
 
@@ -548,7 +548,7 @@
 	</div>
 
 	<!-- 가로형 목차 -->
-	<div id="chapter-horizontal" style="width: 739px; height: 108px;">
+	<div id="chapter-horizontal" style="width: 1039px; height: 108px;">
 		<div class="vc-chapter-container-horizontal non-selectable">
 			<div class="vc-chapter-list-wrapper-horizontal">
 				<div class="vc-chapter-list-horizontal"></div>
@@ -580,15 +580,15 @@
 	</div>
 
 	<!-- 재생 컨트롤러 -->
-	<div id="play-controller" style="width: 739px; display: block;">
+	<div id="play-controller" style="width: 1039px; display: block;">
 		<div class="vc-pctrl-container non-selectable">
 			<div class="vc-pctrl-wrapper">
 				<div class="vc-pctrl-time-tracker">
-					<div class="vc-pctrl-load-progress" style="width: 0%;"></div>
-					<div class="vc-pctrl-seek-limit-progress"></div>
-					<div class="vc-pctrl-play-progress"></div>
+					<div class="vc-pctrl-load-progress" style="width: 1.96%;"></div>
+					<div class="vc-pctrl-seek-limit-progress" style="width: 0.839245%;"></div>
+					<div class="vc-pctrl-play-progress" style="width: 0.84%;"></div>
 					<div class="vc-pctrl-intro-play-progress" style="width: 0%;"></div>
-					<div class="vc-pctrl-seek-thumb" style="left: 97.83%;"></div>
+					<div class="vc-pctrl-seek-thumb" style="left: 0.83%;"></div>
 				</div>
 				<div class="vc-pctrl-buttons-bar">
 					<div class="vc-pctrl-play-pause-btn vc-pctrl-on-playing" tabindex="4" title="일시정지"></div>
@@ -597,17 +597,17 @@
 						<div class="vc-pctrl-volume-btn" tabindex="5" title="음소거"></div>
 						<div class="vc-pctrl-volume-setting-panel">
 							<div class="vc-pctrl-volume-slider">
-								<div class="vc-pctrl-volume-gauge" style="width: 50%;"></div>
-								<div class="vc-pctrl-volume-thumb" style="margin-left: 24.5px;"></div>
+								<div class="vc-pctrl-volume-gauge" style="width: 100%;"></div>
+								<div class="vc-pctrl-volume-thumb" style="margin-left: 49px;"></div>
 							</div>
 							<div class="vc-pctrl-volume-size-bar"></div>
 						</div>
 					</div>
 
 					<div class="vc-pctrl-play-time-text-area">
-						<span class="vc-pctrl-curr-time">00:04</span>
+						<span class="vc-pctrl-curr-time">00:32</span>
 						<span class="vc-pctrl-time-separator">/</span>
-						<span class="vc-pctrl-total-duration">00:04</span>
+						<span class="vc-pctrl-total-duration">01:04:50</span>
 					</div>
 					
 					<button class="vc-pctrl-fullscreen-btn vc-pctrl-on-normal-screen" tabindex="12" title="전체화면"></button>
@@ -652,7 +652,7 @@
                     
 					<div class="vc-pctrl-mixed-multi-btn vc-pctrl-on-mixed" tabindex="18" title="Mixed 영상 전환" style="display: none;">Mixed</div>
 					<div class="vc-pctrl-reload-player-btn" tabindex="6" title="전체 채널 보기" style="display: none;"></div>
-				</div>
+				<button id="send_progress_btn" style="float: right; border: 0px; border-radius: 10px; font-family: Dotum; color: rgb(255, 255, 255); background-color: rgb(255, 0, 0); margin-top: 3px; height: 21px; line-height: 21px; font-size: 12px;">학습종료</button><div id="progress_msg" style="width: 80px; margin-right: 10px; float: right; text-align: right; color: rgb(57, 255, 20); font-family: Dotum; height: 27px; line-height: 27px; font-size: 14px; display: block; opacity: 0.980147;">진도체크중</div></div>
 			</div>
 		</div>
 	</div>
@@ -668,14 +668,14 @@
     </div>
 
 	<!-- 다시 재생 버튼 -->
-	<div id="player-center-control" style="width: 739px;">
+	<div id="player-center-control" style="width: 1039px;">
 		<div class="player-center-control-wrapper">
 			<div class="player-restart-btn" tabindex="16" title="다시재생"></div>
 		</div>
 	</div>
 
 	<!-- 로딩중 표시 -->
-	<div id="loading-indicator" style="left: 344.5px; top: 338.5px; display: block;">
+	<div id="loading-indicator" style="left: 494.5px; top: 338px; display: none;">
 		<div id="loading-indicator-gif-fallback"></div>
 	</div>
 </div>
@@ -683,7 +683,7 @@
 
 	<!-- 공유/정보 영역  시작-->
 	<!-- <div id="share_view" style="position:absolute;width:100%;height:100%;z-index:2000;display:none;">
-		<iframe id="share_frame" class="share_iframe" frameborder="0" src="https://kucom.korea.ac.kr/index.php?module=xn_view_page2013&act=dispXn_view_page2013MediaContentShare&content_id=606a95f49457e&target=media" style="width:100%;height:100%"></iframe>
+		<iframe id="share_frame" class="share_iframe" frameborder="0" src="https://kucom.korea.ac.kr/index.php?module=xn_view_page2013&act=dispXn_view_page2013MediaContentShare&content_id=60abbed3b90f&target=media" style="width:100%;height:100%"></iframe>
 	</div> -->
 	<div id="info_view" style="position:absolute;width:100%;height:100%;z-index:2000;display:none;">
 	</div>
@@ -696,7 +696,7 @@
 <script type="text/javascript">
 	var targetElement = '#player-area';
 	var uniPlayerSettingsUri = '/settings/viewer/uniplayer/uniplayer_settings.xml';
-	var contentUri = '/viewer/ssplayer/uniplayer_support/content.php?content_id=606a95f49457e';
+	var contentUri = '/viewer/ssplayer/uniplayer_support/content.php?content_id=60abbed3b90f';
 	var playListUri = null;
 
 	launcher.run(targetElement, uniPlayerSettingsUri, contentUri, playListUri);
@@ -726,7 +726,7 @@ function closeInfoFrame() {
 		},
 
 		infoBtnClick: function() {
-			var infoUrl = 'https://kucom.korea.ac.kr/index.php?module=xn_view_page2013&act=dispXn_view_page2013MediaContentInfo&content_id=606a95f49457e';
+			var infoUrl = 'https://kucom.korea.ac.kr/index.php?module=xn_view_page2013&act=dispXn_view_page2013MediaContentInfo&content_id=60abbed3b90f';
 			if (!isInfoFrameLoaded) {
 				var frameSrc = '<iframe id="info_frame" class="share_iframe" frameborder="0" src="' +
 					infoUrl + '"></iframe>';
@@ -770,4 +770,4 @@ function closeInfoFrame() {
 	}
 </script>
 
-<iframe id="postLms" name="postLms" style="height:0;width:0%;border:0px"></iframe><iframe id="playingPostLms" name="playingPostLms" style="height:0;width:0%;border:0px"></iframe><iframe id="unloadPostLms" name="unloadPostLms" style="height:0;width:0%;border:0px"></iframe></body></html>
+<iframe id="postLms" name="postLms" style="height:0;width:0%;border:0px"></iframe><iframe id="playingPostLms" name="playingPostLms" style="height:0;width:0%;border:0px"></iframe><iframe id="unloadPostLms" name="unloadPostLms" style="height:0;width:0%;border:0px"></iframe><form id="track_form" style="display:none" method="post" action="https://kulms.korea.ac.kr/webapps/bbgs-OnlineAttendance-BB5d3914f35b4ad/atd/xinics" target="playingPostLms">	<input type="text" name="state" value="3">	<input type="text" name="duration" value="3890">	<input type="text" name="currentTime" value="0.004">	<input type="text" name="cumulativeTime" value="jylW/KFmXCTk3KwDTwGeo/ztV1KcbPUxLbt2s7lN4Y4aLKO5MIZMhoom0erYQ7soBwHGrO6I5BLMlcyBN4ZD64CWk85IYUxVx/KdJz6P93bWonNhq+G1Sb0MM9mdECBp62tm6g9TIdid6VLfRpM5gWu26omXVu4wtxczn6+/A/E=">	<input type="text" name="page" value="0">	<input type="text" name="totalpage" value="0">	<input type="text" name="percentage" value="0.10">	<input type="text" name="userId" value="55777355493445666d59384b4b712532466a43684f4a25324677253344253344">	<input type="text" name="contentId" value="42795938647247746679336d65616672367a57625651253344253344">	<input type="text" name="totalPlayTime" value="0">	</form></body></html>
